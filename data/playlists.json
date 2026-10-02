@@ -1,21 +1,610 @@
 {
-  "updated": null,
+  "updated": "2026-10-02T13:51:39.586444+00:00",
   "playlists": [
     {
       "id": "PL18hYON4DekjwdE7ua3AUlc9kEwFcg8Tw",
-      "title": "Playlist YouTube",
+      "title": "Rubrica di pausa pranzo",
       "label": "PLAYLIST",
       "members": false,
       "url": "https://www.youtube.com/playlist?list=PL18hYON4DekjwdE7ua3AUlc9kEwFcg8Tw",
-      "videos": []
+      "channel": "Exsiderurgica",
+      "videos": [
+        {
+          "id": "LPu1MbRFIBs",
+          "title": "TTG - Developing my Android app for making Techno",
+          "url": "https://www.youtube.com/watch?v=LPu1MbRFIBs",
+          "thumbnail": "https://i.ytimg.com/vi/LPu1MbRFIBs/hqdefault.jpg",
+          "duration": 748,
+          "availability": null,
+          "members": false
+        },
+        {
+          "id": "KzVzUqtCbKc",
+          "title": "Eternal Flow - Generative Techno and Drone App",
+          "url": "https://www.youtube.com/watch?v=KzVzUqtCbKc",
+          "thumbnail": "https://i.ytimg.com/vi/KzVzUqtCbKc/hqdefault.jpg",
+          "duration": 776,
+          "availability": null,
+          "members": false
+        },
+        {
+          "id": "haeq_Sxcw2Q",
+          "title": "Roland SP 404 MKII - An Outdated Workhorse",
+          "url": "https://www.youtube.com/watch?v=haeq_Sxcw2Q",
+          "thumbnail": "https://i.ytimg.com/vi/haeq_Sxcw2Q/hqdefault.jpg",
+          "duration": 1087,
+          "availability": null,
+          "members": false
+        },
+        {
+          "id": "Vcpqz6gNIj0",
+          "title": "Turing Machine - what's missing from all today's grooveboxes",
+          "url": "https://www.youtube.com/watch?v=Vcpqz6gNIj0",
+          "thumbnail": "https://i.ytimg.com/vi/Vcpqz6gNIj0/hqdefault.jpg",
+          "duration": 1324,
+          "availability": null,
+          "members": false
+        },
+        {
+          "id": "7Ip6uSntOjw",
+          "title": "Polyend Drums - The TR1000's overpriced piece",
+          "url": "https://www.youtube.com/watch?v=7Ip6uSntOjw",
+          "thumbnail": "https://i.ytimg.com/vi/7Ip6uSntOjw/hqdefault.jpg",
+          "duration": 1276,
+          "availability": null,
+          "members": false
+        },
+        {
+          "id": "ZWYdzsbL-xg",
+          "title": "Behringer Synthesizers: Let's talk again in 2026",
+          "url": "https://www.youtube.com/watch?v=ZWYdzsbL-xg",
+          "thumbnail": "https://i.ytimg.com/vi/ZWYdzsbL-xg/hqdefault.jpg",
+          "duration": 2215,
+          "availability": null,
+          "members": false
+        },
+        {
+          "id": "p00vvdao7i4",
+          "title": "I can't do without Filters in Techno",
+          "url": "https://www.youtube.com/watch?v=p00vvdao7i4",
+          "thumbnail": "https://i.ytimg.com/vi/p00vvdao7i4/hqdefault.jpg",
+          "duration": 1119,
+          "availability": null,
+          "members": false
+        },
+        {
+          "id": "oHYa_mMaobY",
+          "title": "Techno Dawless: Why I prefer human error to computer perfection",
+          "url": "https://www.youtube.com/watch?v=oHYa_mMaobY",
+          "thumbnail": "https://i.ytimg.com/vi/oHYa_mMaobY/hqdefault.jpg",
+          "duration": 1632,
+          "availability": null,
+          "members": false
+        },
+        {
+          "id": "p6ZA9u-qAIk",
+          "title": "Looking for a portable techno setup: Digitone 2, TR-6S, and Modularino",
+          "url": "https://www.youtube.com/watch?v=p6ZA9u-qAIk",
+          "thumbnail": "https://i.ytimg.com/vi/p6ZA9u-qAIk/hqdefault.jpg",
+          "duration": 1071,
+          "availability": null,
+          "members": false
+        },
+        {
+          "id": "cEXZkC3xNcs",
+          "title": "808 or 909, what to choose for Techno?",
+          "url": "https://www.youtube.com/watch?v=cEXZkC3xNcs",
+          "thumbnail": "https://i.ytimg.com/vi/cEXZkC3xNcs/hqdefault.jpg",
+          "duration": 1680,
+          "availability": null,
+          "members": false
+        },
+        {
+          "id": "FIoX4DOt4pU",
+          "title": "Techno in the sound spectrum",
+          "url": "https://www.youtube.com/watch?v=FIoX4DOt4pU",
+          "thumbnail": "https://i.ytimg.com/vi/FIoX4DOt4pU/hqdefault.jpg",
+          "duration": 1332,
+          "availability": null,
+          "members": false
+        },
+        {
+          "id": "JDyDPqJhlFg",
+          "title": "Eurorack Techno modules are scary",
+          "url": "https://www.youtube.com/watch?v=JDyDPqJhlFg",
+          "thumbnail": "https://i.ytimg.com/vi/JDyDPqJhlFg/hqdefault.jpg",
+          "duration": 1621,
+          "availability": null,
+          "members": false
+        },
+        {
+          "id": "3mr0eAOtgTM",
+          "title": "You asked me to tell you a little about myself.",
+          "url": "https://www.youtube.com/watch?v=3mr0eAOtgTM",
+          "thumbnail": "https://i.ytimg.com/vi/3mr0eAOtgTM/hqdefault.jpg",
+          "duration": 1871,
+          "availability": null,
+          "members": false
+        },
+        {
+          "id": "ALrwJNuY89E",
+          "title": "Techno and Mixers - How and Why",
+          "url": "https://www.youtube.com/watch?v=ALrwJNuY89E",
+          "thumbnail": "https://i.ytimg.com/vi/ALrwJNuY89E/hqdefault.jpg",
+          "duration": 1491,
+          "availability": null,
+          "members": false
+        },
+        {
+          "id": "HFMxtCDt9Mw",
+          "title": "Analog or Digital to produce Techno?",
+          "url": "https://www.youtube.com/watch?v=HFMxtCDt9Mw",
+          "thumbnail": "https://i.ytimg.com/vi/HFMxtCDt9Mw/hqdefault.jpg",
+          "duration": 1594,
+          "availability": null,
+          "members": false
+        },
+        {
+          "id": "AHwQNRjFSh4",
+          "title": "Let's talk about Techno, from my point of view.",
+          "url": "https://www.youtube.com/watch?v=AHwQNRjFSh4",
+          "thumbnail": "https://i.ytimg.com/vi/AHwQNRjFSh4/hqdefault.jpg",
+          "duration": 1685,
+          "availability": null,
+          "members": false
+        }
+      ]
     },
     {
       "id": "PL18hYON4DekgFtzn_ob3hVcdqwYiH07TO",
-      "title": "Playlist YouTube",
+      "title": "VLOG",
       "label": "PLAYLIST",
       "members": false,
       "url": "https://www.youtube.com/playlist?list=PL18hYON4DekgFtzn_ob3hVcdqwYiH07TO",
-      "videos": []
+      "channel": "Exsiderurgica",
+      "videos": [
+        {
+          "id": "rke9y78Du2w",
+          "title": "Torso S4 - My first impressions",
+          "url": "https://www.youtube.com/watch?v=rke9y78Du2w",
+          "thumbnail": "https://i.ytimg.com/vi/rke9y78Du2w/hqdefault.jpg",
+          "duration": 2597,
+          "availability": null,
+          "members": false
+        },
+        {
+          "id": "Lby8pu6EOTs",
+          "title": "TORSO S4 - Unboxing",
+          "url": "https://www.youtube.com/watch?v=Lby8pu6EOTs",
+          "thumbnail": "https://i.ytimg.com/vi/Lby8pu6EOTs/hqdefault.jpg",
+          "duration": 1600,
+          "availability": null,
+          "members": false
+        },
+        {
+          "id": "MilM6e-cjM8",
+          "title": "Polyend Tracker - Review",
+          "url": "https://www.youtube.com/watch?v=MilM6e-cjM8",
+          "thumbnail": "https://i.ytimg.com/vi/MilM6e-cjM8/hqdefault.jpg",
+          "duration": 1260,
+          "availability": null,
+          "members": false
+        },
+        {
+          "id": "XD6bFs5rlJU",
+          "title": "Thomann B-Stock | My Experience | Terrible Behringer Keyboards",
+          "url": "https://www.youtube.com/watch?v=XD6bFs5rlJU",
+          "thumbnail": "https://i.ytimg.com/vi/XD6bFs5rlJU/hqdefault.jpg",
+          "duration": 496,
+          "availability": null,
+          "members": false
+        },
+        {
+          "id": "XRdQSdQfg6s",
+          "title": "Roland TR-8S - NEVER GETTING OLD!",
+          "url": "https://www.youtube.com/watch?v=XRdQSdQfg6s",
+          "thumbnail": "https://i.ytimg.com/vi/XRdQSdQfg6s/hqdefault.jpg",
+          "duration": 1643,
+          "availability": null,
+          "members": false
+        },
+        {
+          "id": "i3BV-1y_foI",
+          "title": "Roland Aira Compact T-8 - Recensione",
+          "url": "https://www.youtube.com/watch?v=i3BV-1y_foI",
+          "thumbnail": "https://i.ytimg.com/vi/i3BV-1y_foI/hqdefault.jpg",
+          "duration": 693,
+          "availability": null,
+          "members": false
+        },
+        {
+          "id": "XN2VlQDym-E",
+          "title": "Roland TR-1000 - I Was Wrong About Some Details - EP4",
+          "url": "https://www.youtube.com/watch?v=XN2VlQDym-E",
+          "thumbnail": "https://i.ytimg.com/vi/XN2VlQDym-E/hqdefault.jpg",
+          "duration": 618,
+          "availability": null,
+          "members": false
+        },
+        {
+          "id": "IQP-L0OjP30",
+          "title": "Roland TR-1000 - The Day of Reckoning! - EP3",
+          "url": "https://www.youtube.com/watch?v=IQP-L0OjP30",
+          "thumbnail": "https://i.ytimg.com/vi/IQP-L0OjP30/hqdefault.jpg",
+          "duration": 1277,
+          "availability": null,
+          "members": false
+        },
+        {
+          "id": "IZF-FoLOg8Y",
+          "title": "Roland TR-1000 - The Analog Dream - EP2",
+          "url": "https://www.youtube.com/watch?v=IZF-FoLOg8Y",
+          "thumbnail": "https://i.ytimg.com/vi/IZF-FoLOg8Y/hqdefault.jpg",
+          "duration": 1175,
+          "availability": null,
+          "members": false
+        },
+        {
+          "id": "RB-iezcwmkw",
+          "title": "Roland TR-1000 - HYPE - EP1",
+          "url": "https://www.youtube.com/watch?v=RB-iezcwmkw",
+          "thumbnail": "https://i.ytimg.com/vi/RB-iezcwmkw/hqdefault.jpg",
+          "duration": 979,
+          "availability": null,
+          "members": false
+        },
+        {
+          "id": "KpNw1A5Fhho",
+          "title": "How do I build the Texture/Drones patch?",
+          "url": "https://www.youtube.com/watch?v=KpNw1A5Fhho",
+          "thumbnail": "https://i.ytimg.com/vi/KpNw1A5Fhho/hqdefault.jpg",
+          "duration": 639,
+          "availability": "subscriber_only",
+          "members": false
+        },
+        {
+          "id": "ZWBKrMut7FI",
+          "title": "Roland SH-4d - Italian Review",
+          "url": "https://www.youtube.com/watch?v=ZWBKrMut7FI",
+          "thumbnail": "https://i.ytimg.com/vi/ZWBKrMut7FI/hqdefault.jpg",
+          "duration": 2672,
+          "availability": null,
+          "members": false
+        },
+        {
+          "id": "hkgnMH23hac",
+          "title": "SOMA Pulsar-23 - Review",
+          "url": "https://www.youtube.com/watch?v=hkgnMH23hac",
+          "thumbnail": "https://i.ytimg.com/vi/hkgnMH23hac/hqdefault.jpg",
+          "duration": 1557,
+          "availability": null,
+          "members": false
+        },
+        {
+          "id": "TOtmsduvjCs",
+          "title": "Erica Synths - Perkons HD-01 - Review",
+          "url": "https://www.youtube.com/watch?v=TOtmsduvjCs",
+          "thumbnail": "https://i.ytimg.com/vi/TOtmsduvjCs/hqdefault.jpg",
+          "duration": 3878,
+          "availability": null,
+          "members": false
+        },
+        {
+          "id": "TwYeX3FwGR4",
+          "title": "Erica Synths - LXR Drum Module - Review",
+          "url": "https://www.youtube.com/watch?v=TwYeX3FwGR4",
+          "thumbnail": "https://i.ytimg.com/vi/TwYeX3FwGR4/hqdefault.jpg",
+          "duration": 3316,
+          "availability": null,
+          "members": false
+        },
+        {
+          "id": "r9_ix0RleWg",
+          "title": "Roland TR-6S - Review",
+          "url": "https://www.youtube.com/watch?v=r9_ix0RleWg",
+          "thumbnail": "https://i.ytimg.com/vi/r9_ix0RleWg/hqdefault.jpg",
+          "duration": 1926,
+          "availability": null,
+          "members": false
+        },
+        {
+          "id": "u8nVp5G2GmM",
+          "title": "Roma Modulare 2024",
+          "url": "https://www.youtube.com/watch?v=u8nVp5G2GmM",
+          "thumbnail": "https://i.ytimg.com/vi/u8nVp5G2GmM/hqdefault.jpg",
+          "duration": 1426,
+          "availability": null,
+          "members": false
+        },
+        {
+          "id": "Sfusoheclb4",
+          "title": "Eurorack per Principianti: Spiegato al Mio Amico - Parte 3",
+          "url": "https://www.youtube.com/watch?v=Sfusoheclb4",
+          "thumbnail": "https://i.ytimg.com/vi/Sfusoheclb4/hqdefault.jpg",
+          "duration": 5300,
+          "availability": "subscriber_only",
+          "members": false
+        },
+        {
+          "id": "-eOjRNeVYTI",
+          "title": "Eurorack per Principianti: Spiegato al Mio Amico - Parte 2",
+          "url": "https://www.youtube.com/watch?v=-eOjRNeVYTI",
+          "thumbnail": "https://i.ytimg.com/vi/-eOjRNeVYTI/hqdefault.jpg",
+          "duration": 3237,
+          "availability": "subscriber_only",
+          "members": false
+        },
+        {
+          "id": "TACl__VLS0w",
+          "title": "Eurorack per Principianti: Spiegato al Mio Amico - Parte 1",
+          "url": "https://www.youtube.com/watch?v=TACl__VLS0w",
+          "thumbnail": "https://i.ytimg.com/vi/TACl__VLS0w/hqdefault.jpg",
+          "duration": 6012,
+          "availability": "subscriber_only",
+          "members": false
+        },
+        {
+          "id": "jaCvwuqb3pQ",
+          "title": "The Roland Witch Project",
+          "url": "https://www.youtube.com/watch?v=jaCvwuqb3pQ",
+          "thumbnail": "https://i.ytimg.com/vi/jaCvwuqb3pQ/hqdefault.jpg",
+          "duration": 103,
+          "availability": null,
+          "members": false
+        },
+        {
+          "id": "m0y1Qek0p1s",
+          "title": "Techno Rumble",
+          "url": "https://www.youtube.com/watch?v=m0y1Qek0p1s",
+          "thumbnail": "https://i.ytimg.com/vi/m0y1Qek0p1s/hqdefault.jpg",
+          "duration": 1426,
+          "availability": "subscriber_only",
+          "members": false
+        },
+        {
+          "id": "LnVzt3HiVog",
+          "title": "Abbonati, organizziamoci!",
+          "url": "https://www.youtube.com/watch?v=LnVzt3HiVog",
+          "thumbnail": "https://i.ytimg.com/vi/LnVzt3HiVog/hqdefault.jpg",
+          "duration": 86,
+          "availability": "subscriber_only",
+          "members": false
+        },
+        {
+          "id": "eX7UPXWC8D8",
+          "title": "Basimilus Iteritas Alter  - Recensione Italiano",
+          "url": "https://www.youtube.com/watch?v=eX7UPXWC8D8",
+          "thumbnail": "https://i.ytimg.com/vi/eX7UPXWC8D8/hqdefault.jpg",
+          "duration": 910,
+          "availability": null,
+          "members": false
+        },
+        {
+          "id": "pIH9i1bszZ0",
+          "title": "Dreadbox Hysteria - Recensione Italiano",
+          "url": "https://www.youtube.com/watch?v=pIH9i1bszZ0",
+          "thumbnail": "https://i.ytimg.com/vi/pIH9i1bszZ0/hqdefault.jpg",
+          "duration": 974,
+          "availability": null,
+          "members": false
+        },
+        {
+          "id": "_6ZRF_hQHf8",
+          "title": "Mutable Instruments Plaits - Italian Review",
+          "url": "https://www.youtube.com/watch?v=_6ZRF_hQHf8",
+          "thumbnail": "https://i.ytimg.com/vi/_6ZRF_hQHf8/hqdefault.jpg",
+          "duration": 3407,
+          "availability": null,
+          "members": false
+        },
+        {
+          "id": "uoLf2QThYeQ",
+          "title": "Installazione firmware v1.2 (final) Plaits Tutorial",
+          "url": "https://www.youtube.com/watch?v=uoLf2QThYeQ",
+          "thumbnail": "https://i.ytimg.com/vi/uoLf2QThYeQ/hqdefault.jpg",
+          "duration": 118,
+          "availability": null,
+          "members": false
+        },
+        {
+          "id": "uWj7GmOGams",
+          "title": "Synth-o-Matic Bologna - Exsiderurgica soundcheck",
+          "url": "https://www.youtube.com/watch?v=uWj7GmOGams",
+          "thumbnail": "https://i.ytimg.com/vi/uWj7GmOGams/hqdefault.jpg",
+          "duration": 1278,
+          "availability": null,
+          "members": false
+        },
+        {
+          "id": "xCNOOc04NcY",
+          "title": "5000 Followers!",
+          "url": "https://www.youtube.com/watch?v=xCNOOc04NcY",
+          "thumbnail": "https://i.ytimg.com/vi/xCNOOc04NcY/hqdefault.jpg",
+          "duration": 274,
+          "availability": null,
+          "members": false
+        },
+        {
+          "id": "J0z2oQdXJUY",
+          "title": "Mastering Multibanda alla Pretolesi su Ableton Live 12 Lite (Senza Plugin)",
+          "url": "https://www.youtube.com/watch?v=J0z2oQdXJUY",
+          "thumbnail": "https://i.ytimg.com/vi/J0z2oQdXJUY/hqdefault.jpg",
+          "duration": 2082,
+          "availability": null,
+          "members": false
+        },
+        {
+          "id": "v8XPCrcu4XE",
+          "title": "Eurorack: Mistakes to Avoid and Modules to Start With",
+          "url": "https://www.youtube.com/watch?v=v8XPCrcu4XE",
+          "thumbnail": "https://i.ytimg.com/vi/v8XPCrcu4XE/hqdefault.jpg",
+          "duration": 1511,
+          "availability": null,
+          "members": false
+        },
+        {
+          "id": "6JELhIL72pc",
+          "title": "Electro Harmonix Platform - Review",
+          "url": "https://www.youtube.com/watch?v=6JELhIL72pc",
+          "thumbnail": "https://i.ytimg.com/vi/6JELhIL72pc/hqdefault.jpg",
+          "duration": 710,
+          "availability": null,
+          "members": false
+        },
+        {
+          "id": "omv1NxIx8Vs",
+          "title": "I Refurbished an Old Xone:22 Mixer",
+          "url": "https://www.youtube.com/watch?v=omv1NxIx8Vs",
+          "thumbnail": "https://i.ytimg.com/vi/omv1NxIx8Vs/hqdefault.jpg",
+          "duration": 1104,
+          "availability": null,
+          "members": false
+        },
+        {
+          "id": "uV94hhepjqU",
+          "title": "Elektron Syntakt - Review",
+          "url": "https://www.youtube.com/watch?v=uV94hhepjqU",
+          "thumbnail": "https://i.ytimg.com/vi/uV94hhepjqU/hqdefault.jpg",
+          "duration": 1348,
+          "availability": null,
+          "members": false
+        },
+        {
+          "id": "IDnx2n2y9Qg",
+          "title": "Why I Sold the Behringer RD9",
+          "url": "https://www.youtube.com/watch?v=IDnx2n2y9Qg",
+          "thumbnail": "https://i.ytimg.com/vi/IDnx2n2y9Qg/hqdefault.jpg",
+          "duration": 327,
+          "availability": null,
+          "members": false
+        },
+        {
+          "id": "fdcnF-7oJf0",
+          "title": "Elektron Model Samples - Recensione",
+          "url": "https://www.youtube.com/watch?v=fdcnF-7oJf0",
+          "thumbnail": "https://i.ytimg.com/vi/fdcnF-7oJf0/hqdefault.jpg",
+          "duration": 1186,
+          "availability": null,
+          "members": false
+        },
+        {
+          "id": "g8OX3QQVAcI",
+          "title": "Korg Drumlogue - Recensione | Newgroove.it",
+          "url": "https://www.youtube.com/watch?v=g8OX3QQVAcI",
+          "thumbnail": "https://i.ytimg.com/vi/g8OX3QQVAcI/hqdefault.jpg",
+          "duration": 1792,
+          "availability": null,
+          "members": false
+        },
+        {
+          "id": "Nx0I8BWwEZg",
+          "title": "4000 Followers!",
+          "url": "https://www.youtube.com/watch?v=Nx0I8BWwEZg",
+          "thumbnail": "https://i.ytimg.com/vi/Nx0I8BWwEZg/hqdefault.jpg",
+          "duration": 33,
+          "availability": null,
+          "members": false
+        },
+        {
+          "id": "_YKEGFHeALc",
+          "title": "Novation Circuit Rhythm - Review | Newgroove.it",
+          "url": "https://www.youtube.com/watch?v=_YKEGFHeALc",
+          "thumbnail": "https://i.ytimg.com/vi/_YKEGFHeALc/hqdefault.jpg",
+          "duration": 1598,
+          "availability": null,
+          "members": false
+        },
+        {
+          "id": "MDMVJvCTbSw",
+          "title": "Arturia Drumbrute Impact - Review | Newgroove.it",
+          "url": "https://www.youtube.com/watch?v=MDMVJvCTbSw",
+          "thumbnail": "https://i.ytimg.com/vi/MDMVJvCTbSw/hqdefault.jpg",
+          "duration": 953,
+          "availability": null,
+          "members": false
+        },
+        {
+          "id": "1M8WjiWImYg",
+          "title": "Gestire e progettare il tuo sintetizzatore modulare con Modulargrid.net",
+          "url": "https://www.youtube.com/watch?v=1M8WjiWImYg",
+          "thumbnail": "https://i.ytimg.com/vi/1M8WjiWImYg/hqdefault.jpg",
+          "duration": 799,
+          "availability": null,
+          "members": false
+        },
+        {
+          "id": "tgF5oFYsyww",
+          "title": "KICK with Befaco BF22 Filter Tutorial",
+          "url": "https://www.youtube.com/watch?v=tgF5oFYsyww",
+          "thumbnail": "https://i.ytimg.com/vi/tgF5oFYsyww/hqdefault.jpg",
+          "duration": 1228,
+          "availability": null,
+          "members": false
+        },
+        {
+          "id": "044viHBGBVA",
+          "title": "Come configurare un sintetizzatore modulare per produrre Industrial Techno",
+          "url": "https://www.youtube.com/watch?v=044viHBGBVA",
+          "thumbnail": "https://i.ytimg.com/vi/044viHBGBVA/hqdefault.jpg",
+          "duration": 880,
+          "availability": null,
+          "members": false
+        },
+        {
+          "id": "jRqO4o9Shxo",
+          "title": "DIY Eurorack PSU - Cheap and Simple",
+          "url": "https://www.youtube.com/watch?v=jRqO4o9Shxo",
+          "thumbnail": "https://i.ytimg.com/vi/jRqO4o9Shxo/hqdefault.jpg",
+          "duration": 861,
+          "availability": null,
+          "members": false
+        },
+        {
+          "id": "IhFfkLQ4Dpg",
+          "title": "3000 Followers!",
+          "url": "https://www.youtube.com/watch?v=IhFfkLQ4Dpg",
+          "thumbnail": "https://i.ytimg.com/vi/IhFfkLQ4Dpg/hqdefault.jpg",
+          "duration": 19,
+          "availability": null,
+          "members": false
+        },
+        {
+          "id": "mZ5cQ7h1aTc",
+          "title": "I sintetizzatori Behringer - la mia esperienza",
+          "url": "https://www.youtube.com/watch?v=mZ5cQ7h1aTc",
+          "thumbnail": "https://i.ytimg.com/vi/mZ5cQ7h1aTc/hqdefault.jpg",
+          "duration": 919,
+          "availability": null,
+          "members": false
+        },
+        {
+          "id": "Lwf3-vUAcJI",
+          "title": "Behringer RD-9 Review",
+          "url": "https://www.youtube.com/watch?v=Lwf3-vUAcJI",
+          "thumbnail": "https://i.ytimg.com/vi/Lwf3-vUAcJI/hqdefault.jpg",
+          "duration": 1504,
+          "availability": null,
+          "members": false
+        },
+        {
+          "id": "KccBZ-W1nYM",
+          "title": "ABC Eurorack - Muovere i primi passi con il sintetizzatore modulare",
+          "url": "https://www.youtube.com/watch?v=KccBZ-W1nYM",
+          "thumbnail": "https://i.ytimg.com/vi/KccBZ-W1nYM/hqdefault.jpg",
+          "duration": 2321,
+          "availability": null,
+          "members": false
+        },
+        {
+          "id": "4ZrE5LIadNE",
+          "title": "COMUNICAZIONE",
+          "url": "https://www.youtube.com/watch?v=4ZrE5LIadNE",
+          "thumbnail": "https://i.ytimg.com/vi/4ZrE5LIadNE/hqdefault.jpg",
+          "duration": 379,
+          "availability": null,
+          "members": false
+        }
+      ]
     },
     {
       "id": "PL18hYON4DekgdGXbjT2x5kjYo2Pgeh9Te",
@@ -23,7 +612,36 @@
       "label": "ABBONAMENTO",
       "members": true,
       "url": "https://www.youtube.com/playlist?list=PL18hYON4DekgdGXbjT2x5kjYo2Pgeh9Te",
-      "videos": []
+      "channel": "Exsiderurgica",
+      "videos": [
+        {
+          "id": "TACl__VLS0w",
+          "title": "Eurorack per Principianti: Spiegato al Mio Amico - Parte 1",
+          "url": "https://www.youtube.com/watch?v=TACl__VLS0w",
+          "thumbnail": "https://i.ytimg.com/vi/TACl__VLS0w/hqdefault.jpg",
+          "duration": 6012,
+          "availability": "subscriber_only",
+          "members": true
+        },
+        {
+          "id": "-eOjRNeVYTI",
+          "title": "Eurorack per Principianti: Spiegato al Mio Amico - Parte 2",
+          "url": "https://www.youtube.com/watch?v=-eOjRNeVYTI",
+          "thumbnail": "https://i.ytimg.com/vi/-eOjRNeVYTI/hqdefault.jpg",
+          "duration": 3237,
+          "availability": "subscriber_only",
+          "members": true
+        },
+        {
+          "id": "Sfusoheclb4",
+          "title": "Eurorack per Principianti: Spiegato al Mio Amico - Parte 3",
+          "url": "https://www.youtube.com/watch?v=Sfusoheclb4",
+          "thumbnail": "https://i.ytimg.com/vi/Sfusoheclb4/hqdefault.jpg",
+          "duration": 5300,
+          "availability": "subscriber_only",
+          "members": true
+        }
+      ]
     }
   ]
 }
