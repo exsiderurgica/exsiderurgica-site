@@ -1,6 +1,14 @@
 {
-  "updated": "2026-10-02T12:35:38.278967+00:00",
+  "updated": "2026-10-02T18:33:13.616826+00:00",
   "videos": [
+    {
+      "id": "lRThlnkwOZc",
+      "title": "Elektron si è arrabbiata con Ciro GPT ",
+      "description": "⚠️ AGGIORNAMENTO:\nDopo il primo comunicato Elektron ha contattato direttamente Justin Valer, sviluppatore del firmware MDX per Machinedrum, confermando che il progetto è ufficialmente autorizzato.\n\nJustin ha quindi rimesso a disposizione il firmware e il 30 settembre ha pubblicato MDX X.14.\n\nIl punto generale del video",
+      "published": "2026-10-02T12:58:58+00:00",
+      "thumbnail": "https://i1.ytimg.com/vi/lRThlnkwOZc/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=lRThlnkwOZc"
+    },
     {
       "id": "JrfaLujNXmQ",
       "title": "S4 Storage - La mia app utility per il trasferimento di dati tra Android e Torso S4",
@@ -88,14 +96,6 @@
       "published": "2026-09-03T17:30:50+00:00",
       "thumbnail": "https://i1.ytimg.com/vi/xin-q_JbBIg/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=xin-q_JbBIg"
-    },
-    {
-      "id": "lLrYQnV66q4",
-      "title": "Torso s4 - Techno Jam @torsoelectronics  #technomusic #torsoelectronics #torsos4 #technojam",
-      "description": "",
-      "published": "2026-09-01T12:14:30+00:00",
-      "thumbnail": "https://i1.ytimg.com/vi/lLrYQnV66q4/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=lLrYQnV66q4"
     }
   ]
 }
