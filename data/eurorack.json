@@ -1,21 +1,126 @@
 {
-  "updated": null,
+  "updated": "2026-10-02T14:08:00Z",
   "pinned": "D1vcKCcR45c",
   "videos": [
-    {"id":"D1vcKCcR45c","title":"Video Eurorack in evidenza","url":"https://www.youtube.com/watch?v=D1vcKCcR45c","thumbnail":"https://i.ytimg.com/vi/D1vcKCcR45c/hqdefault.jpg","duration":null,"availability":null},
-    {"id":"ZWYdzsbL-xg","title":"Video Eurorack","url":"https://www.youtube.com/watch?v=ZWYdzsbL-xg","thumbnail":"https://i.ytimg.com/vi/ZWYdzsbL-xg/hqdefault.jpg","duration":null,"availability":null},
-    {"id":"oHYa_mMaobY","title":"Video Eurorack","url":"https://www.youtube.com/watch?v=oHYa_mMaobY","thumbnail":"https://i.ytimg.com/vi/oHYa_mMaobY/hqdefault.jpg","duration":null,"availability":null},
-    {"id":"JDyDPqJhlFg","title":"Eurorack Techno: i moduli fanno paura","url":"https://www.youtube.com/watch?v=JDyDPqJhlFg","thumbnail":"https://i.ytimg.com/vi/JDyDPqJhlFg/hqdefault.jpg","duration":1621,"availability":null},
-    {"id":"nzgbWgcIlr0","title":"Video Eurorack","url":"https://www.youtube.com/watch?v=nzgbWgcIlr0","thumbnail":"https://i.ytimg.com/vi/nzgbWgcIlr0/hqdefault.jpg","duration":null,"availability":null},
-    {"id":"QOxmYW5WWm8","title":"Video Eurorack","url":"https://www.youtube.com/watch?v=QOxmYW5WWm8","thumbnail":"https://i.ytimg.com/vi/QOxmYW5WWm8/hqdefault.jpg","duration":null,"availability":null},
-    {"id":"KpNw1A5Fhho","title":"Come realizzo la patch Texture/Drones?","url":"https://www.youtube.com/watch?v=KpNw1A5Fhho","thumbnail":"https://i.ytimg.com/vi/KpNw1A5Fhho/hqdefault.jpg","duration":639,"availability":"subscriber_only"},
-    {"id":"u8nVp5G2GmM","title":"Roma Modulare 2024","url":"https://www.youtube.com/watch?v=u8nVp5G2GmM","thumbnail":"https://i.ytimg.com/vi/u8nVp5G2GmM/hqdefault.jpg","duration":1426,"availability":null},
-    {"id":"v8XPCrcu4XE","title":"Eurorack: errori da evitare e moduli da cui partire","url":"https://www.youtube.com/watch?v=v8XPCrcu4XE","thumbnail":"https://i.ytimg.com/vi/v8XPCrcu4XE/hqdefault.jpg","duration":1511,"availability":null},
-    {"id":"1M8WjiWImYg","title":"Gestire e progettare il tuo sintetizzatore modulare con Modulargrid.net","url":"https://www.youtube.com/watch?v=1M8WjiWImYg","thumbnail":"https://i.ytimg.com/vi/1M8WjiWImYg/hqdefault.jpg","duration":799,"availability":null},
-    {"id":"tgF5oFYsyww","title":"KICK con filtro Befaco BF22 - Tutorial","url":"https://www.youtube.com/watch?v=tgF5oFYsyww","thumbnail":"https://i.ytimg.com/vi/tgF5oFYsyww/hqdefault.jpg","duration":1228,"availability":null},
-    {"id":"044viHBGBVA","title":"Come configurare un sintetizzatore modulare per produrre Industrial Techno","url":"https://www.youtube.com/watch?v=044viHBGBVA","thumbnail":"https://i.ytimg.com/vi/044viHBGBVA/hqdefault.jpg","duration":880,"availability":null},
-    {"id":"jRqO4o9Shxo","title":"DIY Eurorack PSU - Economica e semplice","url":"https://www.youtube.com/watch?v=jRqO4o9Shxo","thumbnail":"https://i.ytimg.com/vi/jRqO4o9Shxo/hqdefault.jpg","duration":861,"availability":null},
-    {"id":"mZ5cQ7h1aTc","title":"I sintetizzatori Behringer - la mia esperienza","url":"https://www.youtube.com/watch?v=mZ5cQ7h1aTc","thumbnail":"https://i.ytimg.com/vi/mZ5cQ7h1aTc/hqdefault.jpg","duration":919,"availability":null},
-    {"id":"KccBZ-W1nYM","title":"ABC Eurorack - Muovere i primi passi con il sintetizzatore modulare","url":"https://www.youtube.com/watch?v=KccBZ-W1nYM","thumbnail":"https://i.ytimg.com/vi/KccBZ-W1nYM/hqdefault.jpg","duration":2321,"availability":null}
+    {
+      "id": "D1vcKCcR45c",
+      "title": "Video Eurorack in evidenza",
+      "url": "https://www.youtube.com/watch?v=D1vcKCcR45c",
+      "thumbnail": "https://i.ytimg.com/vi/D1vcKCcR45c/hqdefault.jpg",
+      "duration": null,
+      "availability": "subscriber_only"
+    },
+    {
+      "id": "ZWYdzsbL-xg",
+      "title": "Sintetizzatori Behringer, riparliamone nel 2026",
+      "url": "https://www.youtube.com/watch?v=ZWYdzsbL-xg",
+      "thumbnail": "https://i.ytimg.com/vi/ZWYdzsbL-xg/hqdefault.jpg",
+      "duration": 2215,
+      "availability": null
+    },
+    {
+      "id": "oHYa_mMaobY",
+      "title": "Techno Dawless: Perché preferisco l’errore umano alla perfezione del computer",
+      "url": "https://www.youtube.com/watch?v=oHYa_mMaobY",
+      "thumbnail": "https://i.ytimg.com/vi/oHYa_mMaobY/hqdefault.jpg",
+      "duration": 1632,
+      "availability": null
+    },
+    {
+      "id": "JDyDPqJhlFg",
+      "title": "Eurorack Techno i moduli fanno paura",
+      "url": "https://www.youtube.com/watch?v=JDyDPqJhlFg",
+      "thumbnail": "https://i.ytimg.com/vi/JDyDPqJhlFg/hqdefault.jpg",
+      "duration": 1621,
+      "availability": null
+    },
+    {
+      "id": "nzgbWgcIlr0",
+      "title": "Video Eurorack",
+      "url": "https://www.youtube.com/watch?v=nzgbWgcIlr0",
+      "thumbnail": "https://i.ytimg.com/vi/nzgbWgcIlr0/hqdefault.jpg",
+      "duration": null,
+      "availability": null
+    },
+    {
+      "id": "QOxmYW5WWm8",
+      "title": "Video Eurorack",
+      "url": "https://www.youtube.com/watch?v=QOxmYW5WWm8",
+      "thumbnail": "https://i.ytimg.com/vi/QOxmYW5WWm8/hqdefault.jpg",
+      "duration": null,
+      "availability": null
+    },
+    {
+      "id": "KpNw1A5Fhho",
+      "title": "Come costruisco la patch per le Texture/Drones",
+      "url": "https://www.youtube.com/watch?v=KpNw1A5Fhho",
+      "thumbnail": "https://i.ytimg.com/vi/KpNw1A5Fhho/hqdefault.jpg",
+      "duration": 639,
+      "availability": "subscriber_only"
+    },
+    {
+      "id": "u8nVp5G2GmM",
+      "title": "Roma Modulare 2024",
+      "url": "https://www.youtube.com/watch?v=u8nVp5G2GmM",
+      "thumbnail": "https://i.ytimg.com/vi/u8nVp5G2GmM/hqdefault.jpg",
+      "duration": 1426,
+      "availability": null
+    },
+    {
+      "id": "v8XPCrcu4XE",
+      "title": "Eurorack: errori da evitare e moduli da cui partire",
+      "url": "https://www.youtube.com/watch?v=v8XPCrcu4XE",
+      "thumbnail": "https://i.ytimg.com/vi/v8XPCrcu4XE/hqdefault.jpg",
+      "duration": 1511,
+      "availability": null
+    },
+    {
+      "id": "1M8WjiWImYg",
+      "title": "Gestire e progettare il tuo sintetizzatore modulare con Modulargrid.net",
+      "url": "https://www.youtube.com/watch?v=1M8WjiWImYg",
+      "thumbnail": "https://i.ytimg.com/vi/1M8WjiWImYg/hqdefault.jpg",
+      "duration": 799,
+      "availability": null
+    },
+    {
+      "id": "tgF5oFYsyww",
+      "title": "KICK con filtro Befaco BF22 Tutorial",
+      "url": "https://www.youtube.com/watch?v=tgF5oFYsyww",
+      "thumbnail": "https://i.ytimg.com/vi/tgF5oFYsyww/hqdefault.jpg",
+      "duration": 1228,
+      "availability": null
+    },
+    {
+      "id": "044viHBGBVA",
+      "title": "Come configurare un sintetizzatore modulare per produrre Industrial Techno",
+      "url": "https://www.youtube.com/watch?v=044viHBGBVA",
+      "thumbnail": "https://i.ytimg.com/vi/044viHBGBVA/hqdefault.jpg",
+      "duration": 880,
+      "availability": null
+    },
+    {
+      "id": "jRqO4o9Shxo",
+      "title": "DIY Eurorack PSU - Economica e semplice",
+      "url": "https://www.youtube.com/watch?v=jRqO4o9Shxo",
+      "thumbnail": "https://i.ytimg.com/vi/jRqO4o9Shxo/hqdefault.jpg",
+      "duration": 861,
+      "availability": null
+    },
+    {
+      "id": "mZ5cQ7h1aTc",
+      "title": "I sintetizzatori Behringer - la mia esperienza",
+      "url": "https://www.youtube.com/watch?v=mZ5cQ7h1aTc",
+      "thumbnail": "https://i.ytimg.com/vi/mZ5cQ7h1aTc/hqdefault.jpg",
+      "duration": 919,
+      "availability": null
+    },
+    {
+      "id": "KccBZ-W1nYM",
+      "title": "ABC Eurorack - Muovere i primi passi con il sintetizzatore modulare",
+      "url": "https://www.youtube.com/watch?v=KccBZ-W1nYM",
+      "thumbnail": "https://i.ytimg.com/vi/KccBZ-W1nYM/hqdefault.jpg",
+      "duration": 2321,
+      "availability": null
+    }
   ]
 }
