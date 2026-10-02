@@ -1,0 +1,21 @@
+{
+  "updated": "2026-10-02T11:20:00Z",
+  "videos": [
+    {
+      "id": "JDyDPqJhlFg",
+      "title": "Eurorack Techno i moduli fanno paura",
+      "description": "Eurorack, techno e modular synth.",
+      "published": "2026-04-03T12:44:45Z",
+      "thumbnail": "https://i.ytimg.com/vi/JDyDPqJhlFg/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=JDyDPqJhlFg"
+    },
+    {
+      "id": "v8XPCrcu4XE",
+      "title": "Eurorack: errori da evitare e moduli da cui partire",
+      "description": "Come iniziare con Eurorack evitando acquisti inutili e costruendo un sistema con criterio.",
+      "published": "2024-07-05T16:08:50Z",
+      "thumbnail": "https://i.ytimg.com/vi/v8XPCrcu4XE/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=v8XPCrcu4XE"
+    }
+  ]
+}
