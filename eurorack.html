@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1" />
-  <meta name="description" content="Eurorack, sintesi modulare, moduli, patch e techno secondo Exsiderurgica." />
+  <meta name="description" content="Eurorack secondo Exsiderurgica: sintesi modulare, patch, moduli, techno e improvvisazione elettronica." />
   <title>Eurorack — Exsiderurgica</title>
   <link rel="canonical" href="https://exsiderurgica.github.io/exsiderurgica-site/eurorack.html" />
   <link rel="stylesheet" href="style.css" />
@@ -12,22 +12,60 @@
   <header class="topbar">
     <a class="brand" href="index.html">EXSIDERURGICA</a>
     <nav>
-      <a href="video.html">video</a>
       <a class="active" href="eurorack.html">eurorack</a>
-      <a href="index.html#projects">projects</a>
+      <a href="video.html">video</a>
+      <a href="index.html#projects">progetti</a>
+      <a href="libro.html">libro</a>
     </nav>
   </header>
 
   <main>
-    <section class="hero compact">
-      <div class="eyebrow">EURORACK / MODULAR SYNTH</div>
-      <h1>Eurorack</h1>
-      <p class="lead">Sintesi, patch, moduli, processing e techno. Una selezione curata dei video Eurorack del canale.</p>
-      <div class="catalog-status"><span id="eurorack-updated">aggiornamento automatico</span></div>
+    <section class="hero editorial-hero compact">
+      <div class="eyebrow">EURORACK / MODULAR SYNTH / TECHNO</div>
+      <h1>Eurorack non è un mobile pieno di moduli.</h1>
+      <p class="lead">È un modo di pensare il suono attraverso relazioni: audio, controllo, tempo, errore, feedback e gesto. La macchina cambia ogni volta che cambia la patch.</p>
+    </section>
+
+    <section class="section prose-section">
+      <div class="section-kicker">L'APPROCCIO</div>
+      <div class="prose-grid">
+        <h2>Prima il suono. Poi il nome tecnico.</h2>
+        <div class="prose">
+          <p>Nel modulare non esiste una catena già decisa. Un oscillatore può diventare sorgente audio, modulatore o materiale da distruggere. Un inviluppo può aprire un VCA, muovere un filtro o cambiare completamente il comportamento ritmico di una patch. Lo strumento nasce mentre lo colleghi.</p>
+          <p>Per questo preferisco partire dalle funzioni e dalle relazioni invece che dalla lista dei moduli. VCO, VCF, VCA, inviluppi, LFO, clock e sequenze sono un vocabolario; la patch è la frase. E il modo in cui quella frase cambia sotto le mani è la parte musicale.</p>
+          <p>Più moduli non significano automaticamente più possibilità. Spesso succede il contrario: quando il sistema cresce senza una direzione, aumenta la scelta ma diminuisce la decisione. Un sistema personale funziona quando ogni modulo ha un motivo per essere lì e dialoga con il resto.</p>
+        </div>
+      </div>
+    </section>
+
+    <section class="section manifesto">
+      <div class="section-kicker">DAL LIBRO “SUONARE IL MODULARE”</div>
+      <div class="manifesto-copy">
+        <p class="big-quote">Il sintetizzatore modulare non è uno strumento da programmare una volta e poi eseguire. È uno strumento che si ridefinisce mentre lo suoni.</p>
+        <p>Il mio interesse per Eurorack è sempre stato legato alla performance: patch che possono deragliare, filtri spinti oltre il punto “corretto”, modulazioni usate come struttura ritmica e sequenze che non devono essere perfette per funzionare. La techno, in questo contesto, non è solo un genere: è un laboratorio ideale per capire ripetizione, variazione e tensione.</p>
+        <a class="text-link" href="libro.html">leggi di più sul libro →</a>
+      </div>
+    </section>
+
+    <section class="section prose-section">
+      <div class="section-kicker">DA DOVE PARTIRE</div>
+      <div class="prose-grid">
+        <h2>Poche funzioni chiare battono un sistema enorme.</h2>
+        <div class="prose">
+          <p>Per capire davvero la sintesi modulare bastano poche funzioni fondamentali: una sorgente sonora, qualcosa che ne modifichi lo spettro, qualcosa che ne controlli l'ampiezza e segnali di controllo che mettano tutto in movimento.</p>
+          <p>Un VCO genera materiale. Un filtro decide quali frequenze sopravvivono. Un VCA controlla quanto segnale passa. Un inviluppo dà forma al tempo. Un LFO introduce movimento. Gate, trigger e CV fanno comunicare i moduli. Da qui nasce già un sistema completo abbastanza da insegnare quasi tutto ciò che serve.</p>
+          <p>La parte importante non è memorizzare le definizioni, ma ascoltare cosa cambia quando sposti un cavo. Il percorso del segnale non è una preparazione allo strumento: è lo strumento.</p>
+        </div>
+      </div>
     </section>
 
     <section class="section">
-      <div class="section-head"><h2>Fissato in alto</h2></div>
+      <div class="section-head">
+        <div>
+          <div class="section-kicker">VIDEO IN EVIDENZA</div>
+          <h2>Un punto di ingresso</h2>
+        </div>
+      </div>
       <article id="eurorack-pinned" class="pinned-video">
         <div class="skeleton media"></div>
         <div class="pinned-copy">
@@ -39,8 +77,11 @@
 
     <section class="section">
       <div class="section-head">
-        <h2>Video Eurorack</h2>
-        <a href="https://www.youtube.com/@exsiderurgica" target="_blank" rel="noopener">canale YouTube ↗</a>
+        <div>
+          <div class="section-kicker">DAL CANALE</div>
+          <h2>Video Eurorack</h2>
+        </div>
+        <span id="eurorack-updated" class="catalog-status">aggiornamento automatico</span>
       </div>
       <div id="eurorack-catalog" class="video-grid" aria-live="polite">
         <div class="catalog-empty">Caricamento video…</div>
