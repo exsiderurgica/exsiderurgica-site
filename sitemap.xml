@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url><loc>https://exsiderurgica.github.io/exsiderurgica-site/</loc></url>
-  <url><loc>https://exsiderurgica.github.io/exsiderurgica-site/video.html</loc></url>
   <url><loc>https://exsiderurgica.github.io/exsiderurgica-site/eurorack.html</loc></url>
+  <url><loc>https://exsiderurgica.github.io/exsiderurgica-site/video.html</loc></url>
+  <url><loc>https://exsiderurgica.github.io/exsiderurgica-site/ttg.html</loc></url>
+  <url><loc>https://exsiderurgica.github.io/exsiderurgica-site/videoblock.html</loc></url>
+  <url><loc>https://exsiderurgica.github.io/exsiderurgica-site/exs-instruments.html</loc></url>
+  <url><loc>https://exsiderurgica.github.io/exsiderurgica-site/blattodea.html</loc></url>
+  <url><loc>https://exsiderurgica.github.io/exsiderurgica-site/libro.html</loc></url>
 </urlset>
