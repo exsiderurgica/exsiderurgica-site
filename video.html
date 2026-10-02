@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="it">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <meta name="theme-color" content="#050505" />
+  <meta name="description" content="Archivio video Exsiderurgica organizzato per playlist YouTube: Eurorack, techno, hardware e contenuti per abbonati." />
+  <title>Video — Exsiderurgica</title>
+  <link rel="canonical" href="https://exsiderurgica.github.io/exsiderurgica-site/video.html" />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header class="topbar">
+    <a class="brand" href="index.html">EXSIDERURGICA</a>
+    <nav>
+      <a class="active" href="video.html">video</a>
+      <a href="eurorack.html">eurorack</a>
+      <a href="index.html#projects">projects</a>
+      <a href="index.html#about">about</a>
+    </nav>
+  </header>
+
+  <main>
+    <section class="hero compact">
+      <div class="eyebrow">YOUTUBE / ARCHIVIO</div>
+      <h1>Video</h1>
+      <p class="lead">I contenuti del canale organizzati secondo le playlist ufficiali. Il catalogo si aggiorna automaticamente.</p>
+      <div class="catalog-status"><span id="catalog-updated">aggiornamento automatico</span></div>
+    </section>
+
+    <section id="playlist-catalog" class="catalog-wrap" aria-live="polite">
+      <div class="catalog-empty">Caricamento catalogo…</div>
+    </section>
+  </main>
+
+  <footer><span>EXSIDERURGICA</span><span id="year"></span></footer>
+  <script src="app.js" defer></script>
+  <script src="catalog.js" defer></script>
+</body>
+</html>
