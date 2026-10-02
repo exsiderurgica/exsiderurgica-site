@@ -45,6 +45,8 @@ def extract_playlist(pid):
         "--dump-single-json",
         "--ignore-errors",
         "--no-warnings",
+        "--extractor-args",
+        "youtube:lang=it",
         url,
     ]
     result = subprocess.run(cmd, capture_output=True, text=True, timeout=180)
