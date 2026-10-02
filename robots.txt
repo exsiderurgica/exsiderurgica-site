@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://exsiderurgica.github.io/exsiderurgica-site/sitemap.xml
