@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-02T13:52:49.133167+00:00",
+  "updated": "2026-10-02T18:53:07.288167+00:00",
   "playlists": [
     {
       "id": "PL18hYON4DekjwdE7ua3AUlc9kEwFcg8Tw",
@@ -9,6 +9,15 @@
       "url": "https://www.youtube.com/playlist?list=PL18hYON4DekjwdE7ua3AUlc9kEwFcg8Tw",
       "channel": "Exsiderurgica",
       "videos": [
+        {
+          "id": "lRThlnkwOZc",
+          "title": "Elektron si è arrabbiata con Ciro GPT ",
+          "url": "https://www.youtube.com/watch?v=lRThlnkwOZc",
+          "thumbnail": "https://i.ytimg.com/vi/lRThlnkwOZc/hqdefault.jpg",
+          "duration": 951,
+          "availability": null,
+          "members": false
+        },
         {
           "id": "LPu1MbRFIBs",
           "title": "TTG - Sviluppo la mia app per fare la Techno su Android ",
