@@ -3,47 +3,53 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1" />
-  <meta name="description" content="Eurorack, sintesi modulare e techno secondo Exsiderurgica." />
+  <meta name="description" content="Eurorack, sintesi modulare, moduli, patch e techno secondo Exsiderurgica." />
   <title>Eurorack — Exsiderurgica</title>
+  <link rel="canonical" href="https://exsiderurgica.github.io/exsiderurgica-site/eurorack.html" />
   <link rel="stylesheet" href="style.css" />
 </head>
 <body>
   <header class="topbar">
     <a class="brand" href="index.html">EXSIDERURGICA</a>
-    <nav><a href="video.html">video</a><a class="active" href="eurorack.html">eurorack</a><a href="index.html#projects">projects</a></nav>
+    <nav>
+      <a href="video.html">video</a>
+      <a class="active" href="eurorack.html">eurorack</a>
+      <a href="index.html#projects">projects</a>
+    </nav>
   </header>
+
   <main>
     <section class="hero compact">
       <div class="eyebrow">EURORACK / MODULAR SYNTH</div>
       <h1>Eurorack</h1>
-      <p class="lead">Sintesi, patch, moduli, processing e techno.</p>
+      <p class="lead">Sintesi, patch, moduli, processing e techno. Una selezione curata dei video Eurorack del canale.</p>
+      <div class="catalog-status"><span id="eurorack-updated">aggiornamento automatico</span></div>
     </section>
 
     <section class="section">
-      <div class="section-head"><h2>In evidenza</h2></div>
-      <div class="grid articles">
-        <article class="card article-card">
-          <span class="tag">START HERE</span>
-          <h3>Eurorack: errori da evitare e moduli da cui partire</h3>
-          <p>Un punto di partenza pratico per entrare nel modulare senza trasformare il sistema in una collezione casuale di moduli.</p>
-          <a href="https://www.youtube.com/watch?v=v8XPCrcu4XE" target="_blank" rel="noopener">guarda su YouTube ↗</a>
-        </article>
-        <article class="card article-card">
-          <span class="tag">BASICS</span>
-          <h3>ABC Eurorack</h3>
-          <p>Alimentazione, case, segnali, patch e logica di un sintetizzatore modulare.</p>
-          <a href="https://www.youtube.com/watch?v=KccBZ-W1nYM" target="_blank" rel="noopener">guarda su YouTube ↗</a>
-        </article>
-        <article class="card article-card">
-          <span class="tag">TECHNO</span>
-          <h3>Eurorack Techno: i moduli fanno paura</h3>
-          <p>Il rapporto tra modular synth, workflow techno e complessità reale di un sistema Eurorack.</p>
-          <a href="https://www.youtube.com/watch?v=JDyDPqJhlFg" target="_blank" rel="noopener">guarda su YouTube ↗</a>
-        </article>
+      <div class="section-head"><h2>Fissato in alto</h2></div>
+      <article id="eurorack-pinned" class="pinned-video">
+        <div class="skeleton media"></div>
+        <div class="pinned-copy">
+          <div class="skeleton line short"></div>
+          <div class="skeleton line"></div>
+        </div>
+      </article>
+    </section>
+
+    <section class="section">
+      <div class="section-head">
+        <h2>Video Eurorack</h2>
+        <a href="https://www.youtube.com/@exsiderurgica" target="_blank" rel="noopener">canale YouTube ↗</a>
+      </div>
+      <div id="eurorack-catalog" class="video-grid" aria-live="polite">
+        <div class="catalog-empty">Caricamento video…</div>
       </div>
     </section>
   </main>
+
   <footer><span>EXSIDERURGICA</span><span id="year"></span></footer>
   <script src="app.js" defer></script>
+  <script src="eurorack.js" defer></script>
 </body>
 </html>
