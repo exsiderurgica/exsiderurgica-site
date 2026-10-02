@@ -1,0 +1,29 @@
+{
+  "updated": null,
+  "playlists": [
+    {
+      "id": "PL18hYON4DekjwdE7ua3AUlc9kEwFcg8Tw",
+      "title": "Playlist YouTube",
+      "label": "PLAYLIST",
+      "members": false,
+      "url": "https://www.youtube.com/playlist?list=PL18hYON4DekjwdE7ua3AUlc9kEwFcg8Tw",
+      "videos": []
+    },
+    {
+      "id": "PL18hYON4DekgFtzn_ob3hVcdqwYiH07TO",
+      "title": "Playlist YouTube",
+      "label": "PLAYLIST",
+      "members": false,
+      "url": "https://www.youtube.com/playlist?list=PL18hYON4DekgFtzn_ob3hVcdqwYiH07TO",
+      "videos": []
+    },
+    {
+      "id": "PL18hYON4DekgdGXbjT2x5kjYo2Pgeh9Te",
+      "title": "Abbonamento",
+      "label": "ABBONAMENTO",
+      "members": true,
+      "url": "https://www.youtube.com/playlist?list=PL18hYON4DekgdGXbjT2x5kjYo2Pgeh9Te",
+      "videos": []
+    }
+  ]
+}
