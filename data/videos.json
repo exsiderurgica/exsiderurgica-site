@@ -1,6 +1,14 @@
 {
-  "updated": "2026-10-05T12:37:48.168561+00:00",
+  "updated": "2026-10-05T18:35:44.962078+00:00",
   "videos": [
+    {
+      "id": "3syvi4-TClI",
+      "title": "Ho sguinzagliato tutte le mie scimmie!",
+      "description": "🐒 SCATENIAMO LE SCIMMIE AI\n\nNuova chiacchierata da pausa pranzo: questa volta la scimmia è quella dei custom firmware, del reverse engineering e di tutte quelle cose che fino a poco tempo fa sembravano fuori portata per chi, come me, non viene dal mondo della programmazione.\n\nQuello che sta succedendo attorno a macchin",
+      "published": "2026-10-05T12:51:47+00:00",
+      "thumbnail": "https://i4.ytimg.com/vi/3syvi4-TClI/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=3syvi4-TClI"
+    },
     {
       "id": "lRThlnkwOZc",
       "title": "Elektron si è arrabbiata con Ciro GPT ",
@@ -88,14 +96,6 @@
       "published": "2026-09-04T16:35:10+00:00",
       "thumbnail": "https://i2.ytimg.com/vi/qpNCGvIgjNc/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=qpNCGvIgjNc"
-    },
-    {
-      "id": "xin-q_JbBIg",
-      "title": "Torso s4 - Techno Jam @torsoelectronics  #technomusic #torsoelectronics #torsos4 #technojam",
-      "description": "",
-      "published": "2026-09-03T17:30:50+00:00",
-      "thumbnail": "https://i1.ytimg.com/vi/xin-q_JbBIg/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=xin-q_JbBIg"
     }
   ]
 }
