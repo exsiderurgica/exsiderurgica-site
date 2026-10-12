@@ -1,6 +1,14 @@
 {
-  "updated": "2026-10-11T21:58:05.840724+00:00",
+  "updated": "2026-10-12T15:25:46.222926+00:00",
   "videos": [
+    {
+      "id": "rFTXyqKK0BU",
+      "title": "LIRA•8 Android ",
+      "description": "In questo video vi mostro LIRA•8, il nostro porting Android di una patch Pure Data ispirata al SOMA Laboratory LYRA-8.\nIl progetto nasce dal lavoro di Mike Moreno, autore della patch originale pubblicata su Pd Patch Repo. Noi siamo partiti da quella base per riproporla e adattarla ad Android, lavorando sull’interfaccia",
+      "published": "2026-10-12T12:16:07+00:00",
+      "thumbnail": "https://i3.ytimg.com/vi/rFTXyqKK0BU/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=rFTXyqKK0BU"
+    },
     {
       "id": "3syvi4-TClI",
       "title": "Ho sguinzagliato tutte le mie scimmie!",
@@ -88,14 +96,6 @@
       "published": "2026-09-04T22:33:03+00:00",
       "thumbnail": "https://i3.ytimg.com/vi/nie2Lr_M-7E/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=nie2Lr_M-7E"
-    },
-    {
-      "id": "qpNCGvIgjNc",
-      "title": "Torso s4 - Techno Jam @torsoelectronics  #technomusic #torsoelectronics #torsos4 #technojam",
-      "description": "",
-      "published": "2026-09-04T16:35:10+00:00",
-      "thumbnail": "https://i2.ytimg.com/vi/qpNCGvIgjNc/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=qpNCGvIgjNc"
     }
   ]
 }
