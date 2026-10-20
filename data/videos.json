@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-20T11:36:36.964396+00:00",
+  "updated": "2026-10-20T17:04:32.732413+00:00",
   "videos": [
+    {
+      "id": "cInOuDoI6xk",
+      "title": "Prima flash sperimentale sull'FM1 @M-VAVE  #mvave #fm1",
+      "description": "",
+      "published": "2026-10-20T16:13:08+00:00",
+      "thumbnail": "https://i4.ytimg.com/vi/cInOuDoI6xk/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=cInOuDoI6xk"
+    },
+    {
+      "id": "-h9U4ds4ppU",
+      "title": "M-VAVE FM-1 Finalmente la svolta!",
+      "description": "M-VAVE FM-1: LA RIVOLUZIONE È COMINCIATA!\n\nE se il futuro degli strumenti musicali fosse un hardware completamente personalizzabile, libero dai limiti imposti dai firmware dei produttori?\n\nIn questo video vi racconto perché considero la M-VAVE FM-1 una piccola rivoluzione nel mercato degli strumenti elettronici.\n\nNon p",
+      "published": "2026-10-20T12:45:42+00:00",
+      "thumbnail": "https://i2.ytimg.com/vi/-h9U4ds4ppU/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=-h9U4ds4ppU"
+    },
     {
       "id": "h8BKfVvEi10",
       "title": "EBM / ELECTRONIC BODY MUSIC — DISCHI DA ASCOLTARE",
@@ -80,22 +96,6 @@
       "published": "2026-09-20T21:00:51+00:00",
       "thumbnail": "https://i3.ytimg.com/vi/JlcK4tmsqS0/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=JlcK4tmsqS0"
-    },
-    {
-      "id": "LPu1MbRFIBs",
-      "title": "TTG - Sviluppo la mia app per fare la Techno su Android ",
-      "description": "Vi invito ad iscrivervi alla Newsletter per rimanere aggiornati con le Beta.\nAttendo vostri feedback Dajee!\n\nTTG - Techno Turing Groovebox:\nhttps://exsiderurgica.github.io/turing-groovebox-site/\n\n\n@technoturinggroovebox \n\n#technomusic #ttg #technoturinggroovebox #androidmusic #technojam",
-      "published": "2026-09-14T12:26:37+00:00",
-      "thumbnail": "https://i1.ytimg.com/vi/LPu1MbRFIBs/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=LPu1MbRFIBs"
-    },
-    {
-      "id": "8kARH38v9dU",
-      "title": "TTG! Tantissime novità, scaricate gli sviluppi e andate di Newsletter per beccarveli tutti.",
-      "description": "@technoturinggroovebox  #TTG #technoturinggroovebox #technomusic #technojam #AndroidMusic",
-      "published": "2026-09-13T20:34:41+00:00",
-      "thumbnail": "https://i1.ytimg.com/vi/8kARH38v9dU/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=8kARH38v9dU"
     }
   ]
 }
