@@ -8,24 +8,22 @@
 @media(max-width:520px){main{padding:15px 12px 48px}.panel{padding:16px}.pair button{width:100%}.brand{letter-spacing:.13em}}\n</style>
 </head>
 <body><main>
-<header><div class="brand">EXSIDERURGICA INSTRUMENTS</div><div class="title">EXS FLASH</div><div class="subtitle">Flasher FM1 direttamente dal <strong>Nothing via USB-C</strong> · Chrome Android · Beta 0.2</div></header>
+<header><div class="brand">EXSIDERURGICA INSTRUMENTS</div><div class="title">EXS FLASH</div><div class="subtitle">Flasher FM1 direttamente dal <strong>Nothing via USB-C</strong> · Chrome Android · Diagnostica 0.2.1</div></header>
 <section class="panel"><h2><span class="index">1</span> Firmware sul Nothing</h2>
 <p class="hint">Seleziona il file <strong>.fwsc</strong> dalla memoria del Nothing. Se hai uno ZIP, estrailo con l’app File del telefono, senza PC. Chrome ne controlla localmente CRC e SHA-256: il firmware non viene caricato su alcun server.</p>
 <input id="file" type="file" accept=".fwsc" aria-label="Seleziona file firmware FM1">
 <div id="fw-result" class="inlinebox" hidden></div>
 </section>
 <section class="panel"><h2><span class="index">2</span> Test USB-C del Nothing</h2>
-<p class="hint">Apri questo sito <strong>in Chrome su Android</strong>, non nel browser interno di ChatGPT. Collega l’FM1 al Nothing con <strong>cavo USB-C dati / OTG</strong> e accendilo. Concedi a Chrome il permesso MIDI e SysEx. Questo test <strong>non scrive il firmware</strong>.</p>
+<p class="hint">Apri questo sito <strong>in Chrome su Android</strong>, non nel browser interno di ChatGPT. Collega l’FM1 al Nothing con <strong>cavo USB-C dati / OTG</strong> e accendilo. Concedi a Chrome il permesso MIDI e SysEx. Questo test <strong>non scrive il firmware</strong>. Per MT4 v0.17 è la sola funzione consentita.</p>
 <div class="pair"><button id="connect" class="secondary">TESTA USB-MIDI DAL NOTHING</button><span id="device-info" class="muted">Nessun dispositivo verificato</span></div>
 <p id="browser-status" class="hint"></p><details><summary>Diagnostica porte MIDI del Nothing</summary><pre id="ports">Non ancora eseguita.</pre></details>
 </section>
-<section class="panel"><h2><span class="index">3</span> Aggiornamento</h2>
-<p class="hint"><strong>Attenzione:</strong> la procedura è sperimentale e non ancora collaudata su FM1 collegato al Nothing. Anche se Chrome vede USB-MIDI, il loader OTA deve riapparire dopo il riavvio. Un flash interrotto potrebbe richiedere strumenti esterni. Per il primo test usa solo TESTA USB-MIDI.</p>
-<label class="check"><input type="checkbox" id="backup"><span>Ho salvato i dati importanti e dispongo di un metodo di recupero indipendente dal Nothing.</span></label>
-<label class="check"><input type="checkbox" id="risk"><span>Accetto il rischio di flash sperimentale: Nothing carico, Chrome in primo piano, schermo sempre acceso e cavo sempre collegato.</span></label>
-<div class="pair"><label for="confirm">Scrivi <strong>FLASH</strong>:</label><input type="text" id="confirm" autocomplete="off" placeholder="FLASH" maxlength="5" aria-label="Digita FLASH per confermare"></div>
-<div class="pair"><button id="install" disabled>INSTALLA SU FM1 DAL NOTHING</button><span class="muted">Solo dopo verifica file e dispositivo</span></div>
-<details><summary>Recupero di un aggiornamento Web MIDI interrotto</summary><p class="hint">Usa questa opzione esclusivamente se il dispositivo è rimasto nel <strong>loader MIDI OTA</strong>, con il <strong>medesimo file firmware</strong> selezionato in precedenza. Non ripara la modalità WL82 ROM UBOOT: può richiedere un dispositivo di recupero esterno.</p><button id="resume" class="danger" disabled>RIPRENDI OTA INTERROTTO</button></details>
+<section class="panel" id="write-state">
+<h2><span class="index">3</span> Aggiornamento: non ancora disponibile</h2>
+<p class="hint"><strong>Perché?</strong> Il firmware MT4 v0.17 attualmente installato è stato compilato con <code>FELUCCA_OTA=0</code>. Quindi Chrome può vedere la porta MIDI "Felucca", ma il firmware non espone il servizio SysEx necessario per trasferire l'aggiornamento dal Nothing.</p>
+<p class="hint"><strong>NON premere comandi di flash:</strong> questa versione del sito è intenzionalmente di sola lettura. Non possiamo accendere OTA sull'FM1 con un pulsante del browser: servirà un firmware futuro con OTA abilitato, compilato, collaudato e installato una prima volta con un percorso di aggiornamento compatibile. Stiamo valutando anche un accesso WebUSB diretto al bootloader per evitare il PC.</p>
+<div hidden aria-hidden="true"><label><input type="checkbox" id="backup"></label><label><input type="checkbox" id="risk"></label><input type="text" id="confirm"><button id="install" disabled>SCRITTURA DISABILITATA</button><button id="resume" disabled>RIPRESA DISABILITATA</button></div>
 </section>
 <section class="panel" aria-live="polite" aria-atomic="false"><h2>Stato installazione</h2>
 <progress id="bar" max="100" value="0" aria-label="Avanzamento aggiornamento"></progress>
