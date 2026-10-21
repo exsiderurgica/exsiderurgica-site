@@ -6,6 +6,10 @@
 const $=id=>document.getElementById(id);
 const {validatePackage,Updater}=window.EXSProtocol;
 let firmware=null,access=null,updater=null,device=null,busy=false,wake=null;
+/* MT4 v0.17 is compiled with FELUCCA_OTA=0. The installed firmware cannot
+ * answer the OTA handshake. This public beta is READ-ONLY until a new
+ * OTA-enabled firmware has passed a physical FM1/Android test. */
+const OTA_FLASH_CERTIFIED=false;
 const log=s=>{const p=$('log');p.textContent+='['+new Date().toLocaleTimeString('it-IT')+'] '+s+'\n';p.scrollTop=p.scrollHeight;};
 const say=(s,kind='muted')=>{const e=$('live-status');e.textContent=s;e.className=kind;log(s);};
 const secure=()=>window.isSecureContext&&typeof navigator.requestMIDIAccess==='function'&&!!crypto.subtle;
@@ -13,8 +17,8 @@ function env(){const d='Android: '+(/Android/i.test(navigator.userAgent)?'SI':'N
  $('browser-status').textContent=d;if(!secure())say('Chrome su Android e HTTPS sono necessari per parlare con FM1 via USB-MIDI.','error');
 }
 function refresh(){const allowed=!!firmware&&!busy&&secure()&&$('backup').checked&&$('risk').checked&&$('confirm').value.toUpperCase()==='FLASH';
- $('install').disabled=!(allowed&&device&&device.id.model==='FM-1');
- $('resume').disabled=!(allowed&&device&&device.id.model==='ota-FM-1');
+ $('install').disabled=!OTA_FLASH_CERTIFIED||!(allowed&&device&&device.id.model==='FM-1');
+ $('resume').disabled=!OTA_FLASH_CERTIFIED||!(allowed&&device&&device.id.model==='ota-FM-1');
  $('connect').disabled=busy;$('file').disabled=busy;
 }
 function disconnect(){if(device){device.link.close();device=null;} $('device-info').textContent='Nessun FM1 riconosciuto';refresh();}
@@ -30,7 +34,7 @@ async function connect(){if(busy)return;disconnect();if(!secure()){env();return;
  const lines=[...access.inputs.values()].map(x=>'IN: '+x.name+' ('+x.state+')').concat([...access.outputs.values()].map(x=>'OUT: '+x.name+' ('+x.state+')'));
  $('ports').textContent=lines.join('\n')||'Nessuna porta MIDI visibile al Nothing.';
  say('Cerco FM1 sulle porte MIDI del Nothing…');const d=await updater.find();
- if(!d)throw Error('FM1 non risponde. '+(lines.length?'Le porte sono elencate nella diagnostica.':'Nessuna porta: controlla cavo dati, USB OTG e FM1 acceso.'));
+ if(!d)throw Error('USB-MIDI presente, ma la v0.17 è compilata con FELUCCA_OTA=0: il servizio di identificazione/aggiornamento Web MIDI è disattivato. Nessun flash eseguito. '+(lines.length?'Le porte sono visibili nella diagnostica.':'Verifica cavo dati/OTG e alimentazione.'));
  if(d.id.model!=='FM-1'&&d.id.model!=='ota-FM-1'){d.link.close();throw Error('Identità non prevista: '+d.id.text);}
  device=d;$('device-info').textContent='OK: '+d.id.text+' via '+d.name;
  say(d.id.model==='ota-FM-1'?'Loader OTA identificato: usare solo RIPRENDI con il medesimo file.':'USB-MIDI e SysEx funzionano sul Nothing. Nessun dato è stato scritto.','ok');$('bar').value=20;
@@ -44,7 +48,8 @@ function step(phase,v){if(phase==='device'){say('FM1: '+v+'. Avvio aggiornamento
  else if(phase==='write'){if(v===1||v%32===0)say('OTA: '+v+' blocchi. Tieni Chrome in primo piano.');$('bar').value=Math.min(92,45+Math.floor(v/20));}
  else if(phase==='reboot'){say('Attendo riavvio FM1…');$('bar').value=95;}
  else if(phase==='done'){say('FM1 riavviato come '+v+'. Controlla il nome sul display.','ok');$('bar').value=100;}}
-async function flash(resume){if(!firmware||!device||busy||(resume?$('resume').disabled:$('install').disabled))return;
+async function flash(resume){if(!OTA_FLASH_CERTIFIED){say('Funzione di scrittura disabilitata: MT4 v0.17 usa FELUCCA_OTA=0. Non tentare il flash.','error');return;}
+ if(!firmware||!device||busy||(resume?$('resume').disabled:$('install').disabled))return;
  if(!window.confirm('FLASH REALE DA NOTHING SU FM1 — '+firmware.label+'\nFirmware WebMIDI non collaudato su Nothing; un errore potrebbe richiedere recupero esterno. Vuoi proseguire?'))return;
  busy=true;refresh();await keepAwake();disconnect();let success=false;
  try{if(!updater){access=await navigator.requestMIDIAccess({sysex:true});updater=new Updater(access,log);}
@@ -59,5 +64,5 @@ document.addEventListener('visibilitychange',()=>{if(busy&&document.visibilitySt
 $('file').addEventListener('change',choose);$('connect').addEventListener('click',connect);
 $('install').addEventListener('click',()=>flash(false));$('resume').addEventListener('click',()=>flash(true));
 for(const id of ['backup','risk','confirm'])$(id).addEventListener('input',refresh);
-env();refresh();
+env();say('TEST USB-C IN SOLA LETTURA: MT4 v0.17 ha FELUCCA_OTA=0. Per aggiornare via browser serve prima un firmware con OTA abilitato.','muted');refresh();
 })();
