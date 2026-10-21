@@ -11,6 +11,10 @@
   const HS_QUERY=[0xF0,0x00,0x32,0x45,0x00,0x00,0x00,0x40,0x7f,0xf7];
   const UPGRADE=[0xF0,0x22,0x24,0x35,0x7f,0xf7];
   const MAXDATA=512;
+  /* Firmware MT4 v0.17 has FELUCCA_OTA=0. This public version deliberately
+   * refuses UPDATE and RESUME until a compatible firmware and safe USB path
+   * have been tested on real Nothing + FM1 hardware. */
+  const FLASH_PROVISIONED=false;
   const sleep=ms=>new Promise(res=>setTimeout(res,ms));
   const known={
     'bd85133c8727c7ecac903b2148659e1b22b42e876624e413d9c118ffd6e1571b': {label:'EXS MT4 v0.17 — ultima stabile dichiarata',version:'0.17'},
@@ -91,6 +95,7 @@
       await sleep(10);if(!link.send(response(q.addr,Array.from(image.subarray(q.addr,q.addr+q.len)),q.fl)))return {served,finished:false,lost:true};served++;if(onProgress)onProgress(served,q.addr);
     }}
     async install(image,product,step=()=>{}){
+      if(!FLASH_PROVISIONED)throw Error('Scrittura disabilitata: firmware MT4 v0.17 senza OTA.');
       const dev=await this.find(id=>!/^ota-/i.test(id.model));
       if(!dev)throw Error('FM1 non trovato in modalità normale. Verifica cavo dati e chiudi DAW/MIDI.');
       const expected=product.split('_')[0];
@@ -107,9 +112,9 @@
       if(!res.finished)throw Error('Trasferimento interrotto nel loader OTA. Non spegnere: usare RIPRENDI solo con lo stesso firmware e dopo aver verificato il collegamento.');
       await this.checkReturn(expected,step);
     }
-    async write(ota,image,step){if(!ota.link.send(UPGRADE)){ota.link.close();throw Error('Loader non raggiungibile');}await sleep(2000);const res=await this.serve(ota.link,image,0xf0000000,180000,n=>step('write',n));ota.link.close();return res;}
+    async write(ota,image,step){if(!FLASH_PROVISIONED)throw Error('Scrittura OTA disabilitata.');if(!ota.link.send(UPGRADE)){ota.link.close();throw Error('Loader non raggiungibile');}await sleep(2000);const res=await this.serve(ota.link,image,0xf0000000,180000,n=>step('write',n));ota.link.close();return res;}
     async checkReturn(expected,step){step('reboot');await sleep(3000);const back=await this.waitFor(id=>id.model===expected,40000);if(!back)throw Error('La periferica non è tornata in modalità normale: verifica il display e usa il ripristino Mac se necessario.');back.link.close();step('done',back.id.text);}
-    async resume(image,product,step=()=>{}){const expected=product.split('_')[0];const ota=await this.find(id=>id.model==='ota-'+expected);if(!ota)throw Error('Nessun loader OTA trovato. Non tentare UBOOT da questa pagina.');const res=await this.write(ota,image,step);if(!res.finished)throw Error('Ripresa interrotta: non scollegare il dispositivo.');await this.checkReturn(expected,step);}
+    async resume(image,product,step=()=>{}){if(!FLASH_PROVISIONED)throw Error('Ripresa OTA disabilitata.');const expected=product.split('_')[0];const ota=await this.find(id=>id.model==='ota-'+expected);if(!ota)throw Error('Nessun loader OTA trovato. Non tentare UBOOT da questa pagina.');const res=await this.write(ota,image,step);if(!res.finished)throw Error('Ripresa interrotta: non scollegare il dispositivo.');await this.checkReturn(expected,step);}
   }
   root.EXSProtocol={productOf,logicalImage,crc16,inspect,validatePackage,sha256,known,pack7,unpack7,parseIdentity,parseRequest,response,Updater};
 })(typeof window!=='undefined'?window:globalThis);
