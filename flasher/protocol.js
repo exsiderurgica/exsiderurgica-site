@@ -69,8 +69,16 @@
   class Updater{
     constructor(access,log=()=>{}){this.access=access;this.log=log;}
     async find(filter){const outs=[...this.access.outputs.values()];for(const input of this.access.inputs.values()){
-      if(input.state==='disconnected'||!/fm-1|felucca|ota|composite|sinco|usb-midi/i.test(input.name||''))continue;
-      const output=outs.find(o=>o.name===input.name&&o.state!=='disconnected');if(!output)continue;
+      if(input.state==='disconnected')continue;
+      /* Chrome Android may expose the USB-MIDI device simply as "FM1",
+       * "M-VAVE", "USB MIDI" or a generic USB interface. Probe only exact
+       * matching IN/OUT port pairs with a read-only identity query; never
+       * assume an FM1 based solely on the Android port label. */
+      const normalize=x=>String(x||'').trim().toLowerCase().replace(/[^a-z0-9]/g,'');
+      const output=outs.find(o=>o.state!=='disconnected' && normalize(o.name)===normalize(input.name))
+        || (outs.filter(o=>o.state!=='disconnected').length===1
+            ? outs.find(o=>o.state!=='disconnected') : null);
+      if(!output)continue;
       try{await input.open();await output.open();}catch(_){continue;}
       const link=new Link(input,output);const id=await handshake(link);
       if(id&&(!filter||filter(id)))return {link,id,name:input.name};link.close();
