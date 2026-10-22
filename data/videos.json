@@ -1,6 +1,14 @@
 {
-  "updated": "2026-10-22T11:52:40.615681+00:00",
+  "updated": "2026-10-22T17:10:54.212970+00:00",
   "videos": [
+    {
+      "id": "wCio-N6iYkI",
+      "title": "Modularisti Techno ",
+      "description": "Oggi parliamo di Techno live, sintetizzatori modulari e improvvisazione.\n\nQuali sono gli artisti che hanno davvero lasciato il segno nella scena Eurorack?\n\nVi racconto i miei riferimenti, a partire da Surgeon, che per me rappresenta la vera filosofia del live improvvisato: pochi elementi, tanta sperimentazione, errori ",
+      "published": "2026-10-22T12:26:29+00:00",
+      "thumbnail": "https://i4.ytimg.com/vi/wCio-N6iYkI/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=wCio-N6iYkI"
+    },
     {
       "id": "cInOuDoI6xk",
       "title": "Prima flash sperimentale sull'FM1 @M-VAVE  #mvave #fm1",
@@ -88,14 +96,6 @@
       "published": "2026-09-24T17:28:46+00:00",
       "thumbnail": "https://i3.ytimg.com/vi/2ifrizZMcPk/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=2ifrizZMcPk"
-    },
-    {
-      "id": "JlcK4tmsqS0",
-      "title": "TTG!  @technoturinggroovebox  #TTG #technoturinggroovebox #technomusic #technojam #AndroidMusic",
-      "description": "",
-      "published": "2026-09-20T21:00:51+00:00",
-      "thumbnail": "https://i3.ytimg.com/vi/JlcK4tmsqS0/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=JlcK4tmsqS0"
     }
   ]
 }
