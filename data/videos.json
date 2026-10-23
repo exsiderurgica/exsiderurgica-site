@@ -1,6 +1,14 @@
 {
-  "updated": "2026-10-23T11:39:14.097279+00:00",
+  "updated": "2026-10-23T17:07:10.293294+00:00",
   "videos": [
+    {
+      "id": "ugTEZHkn_ok",
+      "title": "AFTERS - il mio rave simulator preferito!",
+      "description": "Ho trovato un videogioco che è una stronzata meravigliosa! 😂\n\nSi chiama AFTERS ed è praticamente un rave virtuale multiplayer, accessibile direttamente dal browser, anche da smartphone.\n\nGrafica retro stile PS1, centinaia di personaggi che ballano, musica elettronica, gente collegata da tutto il mondo e un'unica missio",
+      "published": "2026-10-23T11:54:46+00:00",
+      "thumbnail": "https://i2.ytimg.com/vi/ugTEZHkn_ok/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=ugTEZHkn_ok"
+    },
     {
       "id": "wCio-N6iYkI",
       "title": "MODULARISTI TECHNO: i miei preferiti",
@@ -88,14 +96,6 @@
       "published": "2026-09-24T17:29:44+00:00",
       "thumbnail": "https://i1.ytimg.com/vi/8YFv96KkOyI/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=8YFv96KkOyI"
-    },
-    {
-      "id": "2ifrizZMcPk",
-      "title": "Android Techno Jam @technoturinggroovebox  #TTG #technoturinggroovebox #technojam #AndroidMusic",
-      "description": "",
-      "published": "2026-09-24T17:28:46+00:00",
-      "thumbnail": "https://i3.ytimg.com/vi/2ifrizZMcPk/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=2ifrizZMcPk"
     }
   ]
 }
