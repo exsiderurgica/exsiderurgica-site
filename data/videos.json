@@ -1,6 +1,14 @@
 {
-  "updated": "2026-10-24T15:57:22.397584+00:00",
+  "updated": "2026-10-24T20:49:47.703257+00:00",
   "videos": [
+    {
+      "id": "rB2T4BotvSc",
+      "title": "Erica Synths apre la LXR-02 all'open source!",
+      "description": "Dopo M-VAVE FM1, anche Erica Synths (@EricaSynths) decide di aprire il proprio hardware alla comunità degli sviluppatori!\n\nLa LXR-02 diventa open source: una bella notizia per chi ama sperimentare, modificare firmware e spingere gli strumenti elettronici oltre i limiti imposti dai produttori.\n\nNel video vi racconto per",
+      "published": "2026-10-24T18:05:33+00:00",
+      "thumbnail": "https://i3.ytimg.com/vi/rB2T4BotvSc/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=rB2T4BotvSc"
+    },
     {
       "id": "ugTEZHkn_ok",
       "title": "AFTERS - il mio rave simulator preferito!",
@@ -88,14 +96,6 @@
       "published": "2026-09-25T15:28:34+00:00",
       "thumbnail": "https://i4.ytimg.com/vi/_5HhtcdAJ0Q/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=_5HhtcdAJ0Q"
-    },
-    {
-      "id": "8YFv96KkOyI",
-      "title": "Android Techno Jam @technoturinggroovebox   #TTG #technoturinggroovebox #technojam #AndroidMusic",
-      "description": "",
-      "published": "2026-09-24T17:29:44+00:00",
-      "thumbnail": "https://i1.ytimg.com/vi/8YFv96KkOyI/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=8YFv96KkOyI"
     }
   ]
 }
