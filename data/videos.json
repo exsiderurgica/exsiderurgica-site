@@ -1,6 +1,14 @@
 {
-  "updated": "2026-10-24T20:49:47.703257+00:00",
+  "updated": "2026-10-25T11:29:30.040452+00:00",
   "videos": [
+    {
+      "id": "TVHfn7A-MWc",
+      "title": "MT4 - FM1 @M-VAVE  #mvave #fm1 #technomusic #firmware",
+      "description": "",
+      "published": "2026-10-25T11:05:21+00:00",
+      "thumbnail": "https://i1.ytimg.com/vi/TVHfn7A-MWc/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=TVHfn7A-MWc"
+    },
     {
       "id": "rB2T4BotvSc",
       "title": "Erica Synths apre la LXR-02 all'open source!",
@@ -88,14 +96,6 @@
       "published": "2026-09-30T12:19:29+00:00",
       "thumbnail": "https://i3.ytimg.com/vi/JrfaLujNXmQ/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=JrfaLujNXmQ"
-    },
-    {
-      "id": "_5HhtcdAJ0Q",
-      "title": "Exsiderurgica - Pressure Field (Official Visualizer)",
-      "description": "PRESSURE FIELD\nExsiderurgica\n\nAvailable now on Blattodea Records:\nhttps://blattodearecords.bandcamp.com/album/pressure-field\n\n\n#exsiderurgica #pressurefield #industrialtechno #techno #experimentaltechno #blattodearecords",
-      "published": "2026-09-25T15:28:34+00:00",
-      "thumbnail": "https://i4.ytimg.com/vi/_5HhtcdAJ0Q/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=_5HhtcdAJ0Q"
     }
   ]
 }
