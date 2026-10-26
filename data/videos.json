@@ -1,6 +1,14 @@
 {
-  "updated": "2026-10-26T13:02:49.852197+00:00",
+  "updated": "2026-10-26T22:40:02.832453+00:00",
   "videos": [
+    {
+      "id": "416KfQCXujw",
+      "title": "MT4 - FM1 @M-VAVE  #fm1 #technomusic #firmware",
+      "description": "",
+      "published": "2026-10-26T20:41:05+00:00",
+      "thumbnail": "https://i1.ytimg.com/vi/416KfQCXujw/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=416KfQCXujw"
+    },
     {
       "id": "R7_ZuM03rco",
       "title": "MT4 - FM1 @M-VAVE  #mvave #fm1 #technomusic #firmware",
@@ -88,14 +96,6 @@
       "published": "2026-10-05T12:51:47+00:00",
       "thumbnail": "https://i4.ytimg.com/vi/3syvi4-TClI/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=3syvi4-TClI"
-    },
-    {
-      "id": "lRThlnkwOZc",
-      "title": "Elektron si è arrabbiata con Ciro GPT ",
-      "description": "⚠️ AGGIORNAMENTO:\nDopo il primo comunicato Elektron ha contattato direttamente Justin Valer, sviluppatore del firmware MDX per Machinedrum, confermando che il progetto è ufficialmente autorizzato.\n\nJustin ha quindi rimesso a disposizione il firmware e il 30 settembre ha pubblicato MDX X.14.\n\nIl punto generale del video",
-      "published": "2026-10-02T12:58:58+00:00",
-      "thumbnail": "https://i1.ytimg.com/vi/lRThlnkwOZc/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=lRThlnkwOZc"
     }
   ]
 }
