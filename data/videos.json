@@ -1,6 +1,14 @@
 {
-  "updated": "2026-10-27T22:13:55.683726+00:00",
+  "updated": "2026-10-28T12:54:19.305641+00:00",
   "videos": [
+    {
+      "id": "LqHT7pjLlsk",
+      "title": "M-VAVE FM-1 - EXS/MT4 - Techno Jam",
+      "description": "M-VAVE FM-1 \nEXS/MT4 ( Firmware Testing)\n\n@M-VAVE \n\n\n#mvave #fm1synth #technomusic #technojam #exsmt4",
+      "published": "2026-10-28T07:23:37+00:00",
+      "thumbnail": "https://i1.ytimg.com/vi/LqHT7pjLlsk/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=LqHT7pjLlsk"
+    },
     {
       "id": "OTSprTav1lw",
       "title": "M-VAVE FM-1: il Vibe Coding è sfuggito di mano!",
@@ -88,14 +96,6 @@
       "published": "2026-10-13T12:57:17+00:00",
       "thumbnail": "https://i2.ytimg.com/vi/IE_oRnLXLCg/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=IE_oRnLXLCg"
-    },
-    {
-      "id": "rFTXyqKK0BU",
-      "title": "LIRA•8 Android ",
-      "description": "In questo video vi mostro LIRA•8, il nostro porting Android di una patch Pure Data ispirata al SOMA Laboratory LYRA-8.\nIl progetto nasce dal lavoro di Mike Moreno, autore della patch originale pubblicata su Pd Patch Repo. Noi siamo partiti da quella base per riproporla e adattarla ad Android, lavorando sull’interfaccia",
-      "published": "2026-10-12T12:16:07+00:00",
-      "thumbnail": "https://i3.ytimg.com/vi/rFTXyqKK0BU/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=rFTXyqKK0BU"
     }
   ]
 }
