@@ -1,6 +1,14 @@
 {
-  "updated": "2026-10-28T12:54:19.305641+00:00",
+  "updated": "2026-10-29T13:01:04.264731+00:00",
   "videos": [
+    {
+      "id": "3Z6NgOLALyM",
+      "title": "MT4 - Ambient mode on! @M-VAVE  #mvave #fm1synth #ambientmusic #dronemusic #exsmt4",
+      "description": "",
+      "published": "2026-10-28T19:57:56+00:00",
+      "thumbnail": "https://i4.ytimg.com/vi/3Z6NgOLALyM/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=3Z6NgOLALyM"
+    },
     {
       "id": "LqHT7pjLlsk",
       "title": "M-VAVE FM-1 - EXS/MT4 - Techno Jam",
@@ -88,14 +96,6 @@
       "published": "2026-10-16T12:46:57+00:00",
       "thumbnail": "https://i1.ytimg.com/vi/h8BKfVvEi10/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=h8BKfVvEi10"
-    },
-    {
-      "id": "IE_oRnLXLCg",
-      "title": "Nothing CMF Speaker S: la provo subito con TTG",
-      "description": "Oggi provo per la prima volta la nuova CMF Speaker S di Nothing, una piccola cassa Bluetooth dal design decisamente particolare… praticamente una busta del latte che fa bum bum. 😄\nNothing me l’ha inviata da provare e in questo video la testo subito con TTG – Turing Groovebox e Lira•8, senza preparare troppo il terreno:",
-      "published": "2026-10-13T12:57:17+00:00",
-      "thumbnail": "https://i2.ytimg.com/vi/IE_oRnLXLCg/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=IE_oRnLXLCg"
     }
   ]
 }
