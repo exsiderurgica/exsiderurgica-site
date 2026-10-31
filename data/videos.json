@@ -1,6 +1,14 @@
 {
-  "updated": "2026-10-30T22:20:14.196007+00:00",
+  "updated": "2026-10-31T12:29:34.269070+00:00",
   "videos": [
+    {
+      "id": "q1I_7TGkqKE",
+      "title": "EXS/MT4 - Il mio firmware per M-VAVE FM-1 è fuori!",
+      "description": "EXS MT4 è finalmente disponibile!\n\nDopo settimane di sviluppo, esperimenti, ottimizzazioni e battaglie con la CPU, ho deciso di condividere pubblicamente MT4, il mio firmware alternativo per M-VAVE FM-1.\n\nIn questo video vi spiego come funziona, come è organizzata l'interfaccia e quali possibilità offre questa piccola ",
+      "published": "2026-10-31T11:59:34+00:00",
+      "thumbnail": "https://i2.ytimg.com/vi/q1I_7TGkqKE/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=q1I_7TGkqKE"
+    },
     {
       "id": "Zs6_NHV-NDY",
       "title": "Nothing CMF Speaker S: Dopo Giorni di Utilizzo, Ecco Cosa Penso",
@@ -88,14 +96,6 @@
       "published": "2026-10-22T12:26:29+00:00",
       "thumbnail": "https://i4.ytimg.com/vi/wCio-N6iYkI/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=wCio-N6iYkI"
-    },
-    {
-      "id": "cInOuDoI6xk",
-      "title": "Prima flash sperimentale sull'FM1 @M-VAVE  #mvave #fm1",
-      "description": "",
-      "published": "2026-10-20T16:13:08+00:00",
-      "thumbnail": "https://i4.ytimg.com/vi/cInOuDoI6xk/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=cInOuDoI6xk"
     }
   ]
 }
