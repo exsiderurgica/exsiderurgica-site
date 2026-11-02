@@ -1,6 +1,14 @@
 {
-  "updated": "2026-11-01T22:01:42.971866+00:00",
+  "updated": "2026-11-02T15:52:26.960484+00:00",
   "videos": [
+    {
+      "id": "PkE4HypzT2o",
+      "title": "EXS/MT4 - Techno Jam Until Crash - M-VAVE FM-1 ",
+      "description": "Provando la modalità \"Techno\" di MT4, alla fine ho cambiato tutti gli algorirmi dei 4 Plaits e il firmware è collassato!\n\n@M-VAVE \n\nMT4:\nhttps://exsiderurgica.github.io/turing-groovebox-site/mt4/\n\nEXSIDERURGICA:",
+      "published": "2026-11-02T13:31:00+00:00",
+      "thumbnail": "https://i1.ytimg.com/vi/PkE4HypzT2o/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=PkE4HypzT2o"
+    },
     {
       "id": "q1I_7TGkqKE",
       "title": "EXS/MT4 - Il mio firmware per M-VAVE FM-1 è fuori!",
@@ -88,14 +96,6 @@
       "published": "2026-10-23T11:54:46+00:00",
       "thumbnail": "https://i2.ytimg.com/vi/ugTEZHkn_ok/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=ugTEZHkn_ok"
-    },
-    {
-      "id": "wCio-N6iYkI",
-      "title": "MODULARISTI TECHNO: i miei preferiti",
-      "description": "Oggi parliamo di Techno live, sintetizzatori modulari e improvvisazione.\n\nQuali sono gli artisti che hanno davvero lasciato il segno nella scena Eurorack?\n\nVi racconto i miei riferimenti, a partire da Surgeon, che per me rappresenta la vera filosofia del live improvvisato: pochi elementi, tanta sperimentazione, errori ",
-      "published": "2026-10-22T12:26:29+00:00",
-      "thumbnail": "https://i4.ytimg.com/vi/wCio-N6iYkI/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=wCio-N6iYkI"
     }
   ]
 }
