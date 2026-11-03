@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-02T15:52:26.960484+00:00",
+  "updated": "2026-11-03T14:14:37.498887+00:00",
   "videos": [
+    {
+      "id": "gT3Cl9yllaM",
+      "title": "MT4 - FM1 @M-VAVE  #mvave #fm1 #technomusic #firmware #technomusic",
+      "description": "",
+      "published": "2026-11-03T12:30:27+00:00",
+      "thumbnail": "https://i4.ytimg.com/vi/gT3Cl9yllaM/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=gT3Cl9yllaM"
+    },
+    {
+      "id": "6krUgtseE9s",
+      "title": "EXS/MT4 - Ambient Mode On - M-VAVE FM-1 ",
+      "description": "Ambient generative mode on\n\n@M-VAVE \n\n#exsmt4 #alternativefirmware #mvave #fm1synth #ambientmusic #dronemusic",
+      "published": "2026-11-03T07:44:47+00:00",
+      "thumbnail": "https://i3.ytimg.com/vi/6krUgtseE9s/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=6krUgtseE9s"
+    },
     {
       "id": "PkE4HypzT2o",
       "title": "EXS/MT4 - Techno Jam Until Crash - M-VAVE FM-1 ",
@@ -80,22 +96,6 @@
       "published": "2026-10-25T11:05:21+00:00",
       "thumbnail": "https://i1.ytimg.com/vi/TVHfn7A-MWc/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=TVHfn7A-MWc"
-    },
-    {
-      "id": "rB2T4BotvSc",
-      "title": "Erica Synths apre la LXR-02 all'open source!",
-      "description": "Dopo M-VAVE FM1, anche Erica Synths (@EricaSynths) decide di aprire il proprio hardware alla comunità degli sviluppatori!\n\nLa LXR-02 diventa open source: una bella notizia per chi ama sperimentare, modificare firmware e spingere gli strumenti elettronici oltre i limiti imposti dai produttori.\n\nNel video vi racconto per",
-      "published": "2026-10-24T18:05:33+00:00",
-      "thumbnail": "https://i3.ytimg.com/vi/rB2T4BotvSc/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=rB2T4BotvSc"
-    },
-    {
-      "id": "ugTEZHkn_ok",
-      "title": "AFTERS - il mio rave simulator preferito!",
-      "description": "Ho trovato un videogioco che è una stronzata meravigliosa! 😂\n\nSi chiama AFTERS ed è praticamente un rave virtuale multiplayer, accessibile direttamente dal browser, anche da smartphone.\n\nGrafica retro stile PS1, centinaia di personaggi che ballano, musica elettronica, gente collegata da tutto il mondo e un'unica missio",
-      "published": "2026-10-23T11:54:46+00:00",
-      "thumbnail": "https://i2.ytimg.com/vi/ugTEZHkn_ok/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=ugTEZHkn_ok"
     }
   ]
 }
