@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-03T14:14:37.498887+00:00",
+  "updated": "2026-11-04T19:45:03.132330+00:00",
   "videos": [
+    {
+      "id": "0aig-0NtFtY",
+      "title": "E Se Ci Incontrassimo Dal Vivo? Techno, Synth e Modulare | Ditemi La Vostra!Descrizione",
+      "description": "E se organizzassimo un incontro dal vivo per parlare di techno, sintetizzatori, musica elettronica, modulare e performance live?\n\nIn questo video vi propongo un'idea che mi gira in testa da un po': organizzare un piccolo incontro, a numero chiuso, per conoscerci di persona, confrontarci, scambiarci idee ed esperienze e",
+      "published": "2026-11-04T13:16:27+00:00",
+      "thumbnail": "https://i1.ytimg.com/vi/0aig-0NtFtY/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=0aig-0NtFtY"
+    },
+    {
+      "id": "URoehn5tBTc",
+      "title": "Polyend Sblocca i Tracker! L’Open Source Sta Cambiando Tutto?",
+      "description": "Anche Polyend entra nel mondo dei firmware alternativi, aprendo nuove possibilità per la famiglia Tracker!\n\nDopo M-VAVE, Erica Synths e gli annunci di Behringer, sembra che il mondo degli strumenti musicali elettronici stia prendendo una direzione sempre più interessante.\n\nMa siamo davvero di fronte a una rivoluzione d",
+      "published": "2026-11-03T16:49:11+00:00",
+      "thumbnail": "https://i2.ytimg.com/vi/URoehn5tBTc/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=URoehn5tBTc"
+    },
     {
       "id": "gT3Cl9yllaM",
       "title": "MT4 - FM1 @M-VAVE  #mvave #fm1 #technomusic #firmware #technomusic",
@@ -80,22 +96,6 @@
       "published": "2026-10-26T20:41:05+00:00",
       "thumbnail": "https://i1.ytimg.com/vi/416KfQCXujw/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=416KfQCXujw"
-    },
-    {
-      "id": "R7_ZuM03rco",
-      "title": "MT4 - FM1 @M-VAVE  #mvave #fm1 #technomusic #firmware",
-      "description": "",
-      "published": "2026-10-25T20:36:28+00:00",
-      "thumbnail": "https://i3.ytimg.com/vi/R7_ZuM03rco/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=R7_ZuM03rco"
-    },
-    {
-      "id": "TVHfn7A-MWc",
-      "title": "MT4 - FM1 @M-VAVE  #mvave #fm1 #technomusic #firmware",
-      "description": "",
-      "published": "2026-10-25T11:05:21+00:00",
-      "thumbnail": "https://i1.ytimg.com/vi/TVHfn7A-MWc/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=TVHfn7A-MWc"
     }
   ]
 }
