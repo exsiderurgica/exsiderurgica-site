@@ -18,10 +18,6 @@
     .project::before{content:"";position:absolute;inset:0;background:#fff;transform:scaleY(0);transform-origin:bottom;transition:transform .28s cubic-bezier(.2,.75,.25,1);z-index:-1}
     .project:hover,.project:focus-visible{color:#000;border-color:#fff;transform:translateY(-2px);outline:none}
     .project:hover::before,.project:focus-visible::before{transform:scaleY(1)}
-    .contact{display:flex;justify-content:center;padding-top:34px}
-    .mail{width:58px;height:58px;border:1px solid var(--line);display:grid;place-items:center;color:#fff;text-decoration:none;transition:background .22s ease,color .22s ease,border-color .22s ease,transform .22s ease}
-    .mail:hover,.mail:focus-visible{background:#fff;color:#000;border-color:#fff;transform:translateY(-2px);outline:none}
-    .mail svg{width:24px;height:24px;fill:none;stroke:currentColor;stroke-width:1.6;stroke-linecap:square;stroke-linejoin:miter}
     footer{color:var(--muted);text-align:center;font-size:11px;letter-spacing:.18em;text-transform:uppercase;padding-top:24px}
     @media (max-width:640px){body{padding:26px 13px 30px}header{padding-bottom:30px}.grid{grid-template-columns:1fr;gap:9px}.project{min-height:102px;padding:20px 22px}}
     @media (prefers-reduced-motion:reduce){*,*::before,*::after{transition:none!important}}
@@ -38,12 +34,8 @@
       <a class="project" href="https://exsiderurgica.github.io/LIRA8-ANDROID-SITE/" target="_blank" rel="noopener noreferrer">LIRA8</a>
       <a class="project" href="https://exsiderurgica.github.io/S4-Storage-site/" target="_blank" rel="noopener noreferrer">S4 STORAGE</a>
       <a class="project" href="https://blattodearecords.bandcamp.com/" target="_blank" rel="noopener noreferrer">BLATTODEA RECORDS</a>
+      <a class="project" href="mailto:exsiderurgica@gmail.com">CONTACT</a>
     </section>
-    <div class="contact">
-      <a class="mail" href="mailto:exsiderurgica@gmail.com" aria-label="Scrivi a Exsiderurgica">
-        <svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3.5" y="5.5" width="17" height="13"></rect><path d="M4 6l8 6 8-6"></path></svg>
-      </a>
-    </div>
     <footer>Exsiderurgica</footer>
   </main>
 </body>
