@@ -1,6 +1,14 @@
 {
-  "updated": "2026-11-05T19:57:05.166895+00:00",
+  "updated": "2026-11-06T19:24:21.698755+00:00",
   "videos": [
+    {
+      "id": "BOCnepzh14E",
+      "title": "Techno JamRoland Tr-6s + M-VAVE FM-1 + Modular Synth #technomusic #modularsynth #eurorackmodular",
+      "description": "",
+      "published": "2026-11-06T13:34:50+00:00",
+      "thumbnail": "https://i3.ytimg.com/vi/BOCnepzh14E/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=BOCnepzh14E"
+    },
     {
       "id": "0aig-0NtFtY",
       "title": "E Se Ci Incontrassimo Dal Vivo? Techno, Synth e Modulare | Ditemi La Vostra!Descrizione",
@@ -88,14 +96,6 @@
       "published": "2026-10-27T13:45:24+00:00",
       "thumbnail": "https://i4.ytimg.com/vi/OTSprTav1lw/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=OTSprTav1lw"
-    },
-    {
-      "id": "416KfQCXujw",
-      "title": "MT4 - FM1 @M-VAVE  #fm1 #technomusic #firmware",
-      "description": "",
-      "published": "2026-10-26T20:41:05+00:00",
-      "thumbnail": "https://i1.ytimg.com/vi/416KfQCXujw/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=416KfQCXujw"
     }
   ]
 }
