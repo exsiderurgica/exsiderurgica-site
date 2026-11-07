@@ -1,6 +1,14 @@
 {
-  "updated": "2026-11-06T19:24:21.698755+00:00",
+  "updated": "2026-11-07T13:00:15.939144+00:00",
   "videos": [
+    {
+      "id": "juXvytbYbZM",
+      "title": "Roland Tr6s + Modular Synth - Techno Jam",
+      "description": "",
+      "published": "2026-11-07T10:28:02+00:00",
+      "thumbnail": "https://i3.ytimg.com/vi/juXvytbYbZM/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=juXvytbYbZM"
+    },
     {
       "id": "BOCnepzh14E",
       "title": "Techno JamRoland Tr-6s + M-VAVE FM-1 + Modular Synth #technomusic #modularsynth #eurorackmodular",
@@ -88,14 +96,6 @@
       "published": "2026-10-28T07:23:37+00:00",
       "thumbnail": "https://i1.ytimg.com/vi/LqHT7pjLlsk/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=LqHT7pjLlsk"
-    },
-    {
-      "id": "OTSprTav1lw",
-      "title": "M-VAVE FM-1: il Vibe Coding è sfuggito di mano!",
-      "description": "Il Vibe Coding sta contagiando tutti, e adesso anche le aziende produttrici di strumenti musicali sembrano essersi svegliate!\n\nDalla M-VAVE FM-1 all'Erica Synths LXR-2, passando per Behringer e i nuovi progetti open source: sta succedendo di tutto, e forse siamo soltanto all'inizio.\n\nIn questo video vi racconto cosa pe",
-      "published": "2026-10-27T13:45:24+00:00",
-      "thumbnail": "https://i4.ytimg.com/vi/OTSprTav1lw/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=OTSprTav1lw"
     }
   ]
 }
