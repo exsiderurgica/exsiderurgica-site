@@ -1,6 +1,14 @@
 {
-  "updated": "2026-11-07T21:50:37.807374+00:00",
+  "updated": "2026-11-08T13:24:50.762990+00:00",
   "videos": [
+    {
+      "id": "DjBG3D15ez0",
+      "title": "EXS/MT4 - Tutorial - M-VAVE FM-1 ",
+      "description": "In questo video vi mostro come funziona MT4, il firmware alternativo che sto sviluppando per la M-VAVE FM1.\n\nUn progetto nato dalla voglia di trasformare questa piccola macchina in una groovebox sperimentale, pensata per la techno, l'ambient e la generazione sonora.\n\nVi faccio vedere come installare il firmware diretta",
+      "published": "2026-11-08T09:20:16+00:00",
+      "thumbnail": "https://i1.ytimg.com/vi/DjBG3D15ez0/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=DjBG3D15ez0"
+    },
     {
       "id": "juXvytbYbZM",
       "title": "Roland Tr6s + Modular Synth - Techno Jam",
@@ -88,14 +96,6 @@
       "published": "2026-10-28T19:57:56+00:00",
       "thumbnail": "https://i4.ytimg.com/vi/3Z6NgOLALyM/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=3Z6NgOLALyM"
-    },
-    {
-      "id": "LqHT7pjLlsk",
-      "title": "M-VAVE FM-1 - EXS/MT4 - Techno Jam",
-      "description": "M-VAVE FM-1 \nEXS/MT4 ( Firmware Testing)\n\n@M-VAVE \n\n\n#mvave #fm1synth #technomusic #technojam #exsmt4",
-      "published": "2026-10-28T07:23:37+00:00",
-      "thumbnail": "https://i1.ytimg.com/vi/LqHT7pjLlsk/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=LqHT7pjLlsk"
     }
   ]
 }
