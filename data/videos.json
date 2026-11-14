@@ -1,6 +1,14 @@
 {
-  "updated": "2026-11-13T19:41:58.674971+00:00",
+  "updated": "2026-11-14T18:01:22.694790+00:00",
   "videos": [
+    {
+      "id": "mpsRhZipTfI",
+      "title": "MT4 - FM1MT4 firmware, @M-VAVE #mvave #fm1 #technomusic #firmware #technomusic",
+      "description": "",
+      "published": "2026-11-14T09:52:12+00:00",
+      "thumbnail": "https://i2.ytimg.com/vi/mpsRhZipTfI/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=mpsRhZipTfI"
+    },
     {
       "id": "XaTUsq-uh9A",
       "title": "Qualcosa non và! Synth, scimmie e crisi esistenziali",
@@ -88,14 +96,6 @@
       "published": "2026-11-03T07:44:47+00:00",
       "thumbnail": "https://i3.ytimg.com/vi/6krUgtseE9s/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=6krUgtseE9s"
-    },
-    {
-      "id": "PkE4HypzT2o",
-      "title": "EXS/MT4 - Techno Jam Until Crash - M-VAVE FM-1 ",
-      "description": "Provando la modalità \"Techno\" di MT4, alla fine ho cambiato tutti gli algorirmi dei 4 Plaits e il firmware è collassato!\n\n@M-VAVE \n\nMT4:\nhttps://exsiderurgica.github.io/turing-groovebox-site/mt4/\n\nEXSIDERURGICA:",
-      "published": "2026-11-02T13:31:00+00:00",
-      "thumbnail": "https://i1.ytimg.com/vi/PkE4HypzT2o/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=PkE4HypzT2o"
     }
   ]
 }
