@@ -1,6 +1,14 @@
 {
-  "updated": "2026-11-15T18:51:37.616876+00:00",
+  "updated": "2026-11-16T22:01:32.920970+00:00",
   "videos": [
+    {
+      "id": "kRbkBW7UrpU",
+      "title": "EXS/MT4 diventa MT6! M-VAVE FM-1 ",
+      "description": "🚀 EXS/MT4 diventa EXS/MT6!\n\nIl progetto continua a evolversi! In questo video vi racconto gli ultimi aggiornamenti del mio firmware custom per M-VAVE FM1, una piccola macchina economica che si sta trasformando in una groovebox sempre più completa e potente.\n\nGrazie al lavoro di sviluppo con ChatGPT e Codex sono riuscit",
+      "published": "2026-11-16T13:22:24+00:00",
+      "thumbnail": "https://i4.ytimg.com/vi/kRbkBW7UrpU/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=kRbkBW7UrpU"
+    },
     {
       "id": "mpsRhZipTfI",
       "title": "MT4 - FM1MT4 firmware, @M-VAVE #mvave #fm1 #technomusic #firmware #technomusic",
@@ -88,14 +96,6 @@
       "published": "2026-11-03T12:30:27+00:00",
       "thumbnail": "https://i4.ytimg.com/vi/gT3Cl9yllaM/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=gT3Cl9yllaM"
-    },
-    {
-      "id": "6krUgtseE9s",
-      "title": "EXS/MT4 - Ambient Mode On - M-VAVE FM-1 ",
-      "description": "Ambient generative mode on\n\n@M-VAVE \n\n#exsmt4 #alternativefirmware #mvave #fm1synth #ambientmusic #dronemusic",
-      "published": "2026-11-03T07:44:47+00:00",
-      "thumbnail": "https://i3.ytimg.com/vi/6krUgtseE9s/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=6krUgtseE9s"
     }
   ]
 }
