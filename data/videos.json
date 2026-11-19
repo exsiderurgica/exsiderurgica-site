@@ -1,6 +1,14 @@
 {
-  "updated": "2026-11-19T07:25:43.394390+00:00",
+  "updated": "2026-11-19T20:37:20.642596+00:00",
   "videos": [
+    {
+      "id": "mia07YAIZ8g",
+      "title": "Riflessioni sull'utilizzo dell'intelligenza artificiale per la musica. ",
+      "description": "L'intelligenza artificiale sta cambiando il modo di fare musica, ma forse non nel modo in cui pensavamo.\n\nIn questo video faccio qualche riflessione a ruota libera durante la pausa pranzo, partendo dalle mie prime esperienze con Suno, passando per gli esperimenti musicali diventati virali con GNO XL, fino ad arrivare a",
+      "published": "2026-11-19T13:42:53+00:00",
+      "thumbnail": "https://i2.ytimg.com/vi/mia07YAIZ8g/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=mia07YAIZ8g"
+    },
     {
       "id": "kRbkBW7UrpU",
       "title": "EXS/MT4 diventa MT6! M-VAVE FM-1 ",
@@ -88,14 +96,6 @@
       "published": "2026-11-03T16:49:11+00:00",
       "thumbnail": "https://i2.ytimg.com/vi/URoehn5tBTc/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=URoehn5tBTc"
-    },
-    {
-      "id": "gT3Cl9yllaM",
-      "title": "MT4 - FM1 @M-VAVE  #mvave #fm1 #technomusic #firmware #technomusic",
-      "description": "",
-      "published": "2026-11-03T12:30:27+00:00",
-      "thumbnail": "https://i4.ytimg.com/vi/gT3Cl9yllaM/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=gT3Cl9yllaM"
     }
   ]
 }
