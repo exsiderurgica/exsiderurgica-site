@@ -1,6 +1,14 @@
 {
-  "updated": "2026-11-21T19:16:03.235196+00:00",
+  "updated": "2026-11-22T06:47:25.235119+00:00",
   "videos": [
+    {
+      "id": "VEWr2xomV-s",
+      "title": "EXS/MT6 - FM1MT6 firmware, link in BIO @M-VAVE #mvave #fm1 #technomusic #firmware #technomusic",
+      "description": "",
+      "published": "2026-11-21T22:57:09+00:00",
+      "thumbnail": "https://i3.ytimg.com/vi/VEWr2xomV-s/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=VEWr2xomV-s"
+    },
     {
       "id": "wMF5uwTC81A",
       "title": "EXS/MT6 - FM1MT6 firmware, link in BIO @M-VAVE #mvave #fm1 #technomusic #firmware #technomusic",
@@ -88,14 +96,6 @@
       "published": "2026-11-07T10:28:02+00:00",
       "thumbnail": "https://i3.ytimg.com/vi/juXvytbYbZM/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=juXvytbYbZM"
-    },
-    {
-      "id": "BOCnepzh14E",
-      "title": "Techno JamRoland Tr-6s + M-VAVE FM-1 + Modular Synth #technomusic #modularsynth #eurorackmodular",
-      "description": "",
-      "published": "2026-11-06T13:34:50+00:00",
-      "thumbnail": "https://i3.ytimg.com/vi/BOCnepzh14E/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=BOCnepzh14E"
     }
   ]
 }
