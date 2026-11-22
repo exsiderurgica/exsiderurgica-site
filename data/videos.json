@@ -1,6 +1,14 @@
 {
-  "updated": "2026-11-22T06:47:25.235119+00:00",
+  "updated": "2026-11-22T19:39:53.684793+00:00",
   "videos": [
+    {
+      "id": "pz3S-aSh1wY",
+      "title": "EXS/MT6 - 2 FM-1+ Modular Synth - Techno Jam ",
+      "description": "Testing EXS/FM6 with modular gear.\n\nEXS/MT6:\nhttps://exsiderurgica.github.io/turing-groovebox-site/mt6/\n\n\nEXSIDERURGICA:",
+      "published": "2026-11-22T08:38:40+00:00",
+      "thumbnail": "https://i1.ytimg.com/vi/pz3S-aSh1wY/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=pz3S-aSh1wY"
+    },
     {
       "id": "VEWr2xomV-s",
       "title": "EXS/MT6 - FM1MT6 firmware, link in BIO @M-VAVE #mvave #fm1 #technomusic #firmware #technomusic",
@@ -88,14 +96,6 @@
       "published": "2026-11-08T09:20:16+00:00",
       "thumbnail": "https://i1.ytimg.com/vi/DjBG3D15ez0/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=DjBG3D15ez0"
-    },
-    {
-      "id": "juXvytbYbZM",
-      "title": "Roland Tr6s + Modular Synth - Techno Jam",
-      "description": "",
-      "published": "2026-11-07T10:28:02+00:00",
-      "thumbnail": "https://i3.ytimg.com/vi/juXvytbYbZM/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=juXvytbYbZM"
     }
   ]
 }
