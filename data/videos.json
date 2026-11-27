@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-27T08:33:18.658438+00:00",
+  "updated": "2026-11-27T21:17:29.450184+00:00",
   "videos": [
+    {
+      "id": "Ng-4mpFs7k0",
+      "title": "Polyend Tracker sviluppo il mio firmware!",
+      "description": "Ce l'ho fatta! Ho sviluppato un firmware custom per il Polyend Tracker, trasformandolo in una vera e propria groovebox generativa, riprendendo alcune delle idee sviluppate nei miei precedenti progetti TTG e MT6.\n\nIl progetto è ancora in fase sperimentale, ma le possibilità sono davvero entusiasmanti:\n\n- 8 tracce con mo",
+      "published": "2026-11-27T13:17:01+00:00",
+      "thumbnail": "https://i3.ytimg.com/vi/Ng-4mpFs7k0/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=Ng-4mpFs7k0"
+    },
+    {
+      "id": "-wZJ_vClPsE",
+      "title": "Polyend Tracker - EXS Custom Firmware Testing my new Build  #polyend #Tracker  @Polyend",
+      "description": "",
+      "published": "2026-11-27T13:07:57+00:00",
+      "thumbnail": "https://i2.ytimg.com/vi/-wZJ_vClPsE/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=-wZJ_vClPsE"
+    },
     {
       "id": "SbkcdchZzsE",
       "title": "EXS/MT6 - FM1MT6 firmware, link in BIO @M-VAVE #mvave #fm1 #technomusic #firmware #technomusic",
@@ -80,22 +96,6 @@
       "published": "2026-11-14T09:52:12+00:00",
       "thumbnail": "https://i2.ytimg.com/vi/mpsRhZipTfI/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=mpsRhZipTfI"
-    },
-    {
-      "id": "XaTUsq-uh9A",
-      "title": "Qualcosa non và! Synth, scimmie e crisi esistenziali",
-      "description": "Ciao guagliù! 👋\n\nUna settimana di delirio, mille scimmie e qualche riflessione sul futuro del canale Exsiderurgica.\n\nIn questo video facciamo due chiacchiere senza troppi filtri su YouTube, sintetizzatori, collaborazioni con le aziende e su quanto sia complicato portare avanti un canale indipendente, soprattutto quando",
-      "published": "2026-11-13T14:40:16+00:00",
-      "thumbnail": "https://i1.ytimg.com/vi/XaTUsq-uh9A/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=XaTUsq-uh9A"
-    },
-    {
-      "id": "3YLk6igMGHk",
-      "title": "Techno JamRoland Tr-6s + M-VAVE FM-1 + Modular Synth ",
-      "description": "Testing EXS/MT4 Firmware:\n\nhttps://exsiderurgica.github.io/turing-groovebox-site/mt4/\n\n\n@M-VAVE @rolandglobal \n\n#technomusic #technojam #mvave #exsmt4",
-      "published": "2026-11-13T07:46:12+00:00",
-      "thumbnail": "https://i4.ytimg.com/vi/3YLk6igMGHk/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=3YLk6igMGHk"
     }
   ]
 }
